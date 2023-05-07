@@ -1,0 +1,629 @@
+,name_1,link_1,price_1,seller_1,year_1,body_1,mileage_1,engine_1,BHP_1,transmission_1,fuel_1,owners_1,brand_1,postcode_1
+0,Renault Clio,https://www.autotrader.co.uk/car-details/202304246601562,"£1,199",4.3 (12 reviews) leighton buzzard (9 miles),2005,Hatchback,61000,1.1L,75.0,Manual,Petrol,,Renault,MK3 6JS
+1,Vauxhall Tigra,https://www.autotrader.co.uk/car-details/202304306843491,"£1,009",3.7 (61 reviews) milton keynes (7 miles),2005,Convertible,76200,1.4L,89.0,Manual,Petrol,8.0,Vauxhall,MK3 6JS
+2,Renault Kangoo,https://www.autotrader.co.uk/car-details/202304186404459,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2005,MPV,73000,1.5L,83.0,Manual,Diesel,,Renault,MK3 6JS
+3,Volkswagen Polo,https://www.autotrader.co.uk/car-details/202304216517854,"£1,309",3.7 (61 reviews) milton keynes (7 miles),2005,Hatchback,118000,1.2L,55.0,Manual,Petrol,7.0,Volkswagen,MK3 6JS
+4,Vauxhall Agila,https://www.autotrader.co.uk/car-details/202304156319609,"£1,049",3.7 (61 reviews) milton keynes (7 miles),2005,MPV,115267,1.2L,79.0,Manual,Petrol,4.0,Vauxhall,MK3 6JS
+5,MINI Hatch,https://www.autotrader.co.uk/car-details/202305046991297,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2005,Hatchback,74000,1.6L,,Manual,Petrol,,MINI,MK3 6JS
+6,Audi A3,https://www.autotrader.co.uk/car-details/202304296812358,"£1,049",3.7 (61 reviews) milton keynes (7 miles),2005,Hatchback,181200,1.9L,104.0,Manual,Diesel,3.0,Audi,MK3 6JS
+7,MINI Convertible,https://www.autotrader.co.uk/car-details/202304146276631,"£2,990",4.6 (298 reviews) milton keynes (6 miles),2005,Convertible,62000,1.6L,,Manual,Petrol,,MINI,MK3 6JS
+8,Honda Civic,https://www.autotrader.co.uk/car-details/202303295748800,"£1,709",3.7 (61 reviews) milton keynes (7 miles),2005,Hatchback,138350,1.6L,108.0,Automatic,Petrol,5.0,Honda,MK3 6JS
+9,Honda Jazz,https://www.autotrader.co.uk/car-details/202304126219920,"£1,300",4.9 (10 reviews) milton keynes (5 miles),2005,Hatchback,129878,1.4L,82.0,Manual,Petrol,2.0,Honda,MK3 6JS
+10,Renault Clio,https://www.autotrader.co.uk/car-details/202302224535097,"£1,990",4.8 (116 reviews) bedford (7 miles),2005,Hatchback,72000,1.2L,75.0,Manual,Petrol,,Renault,MK3 6JS
+11,Mazda3,https://www.autotrader.co.uk/car-details/202302053961585,"£2,599",4.7 (34 reviews) milton keynes (4 miles),2005,Hatchback,72000,2.0L,147.0,Manual,Petrol,,Mazda3,MK3 6JS
+12,BMW 3 Series,https://www.autotrader.co.uk/car-details/202305036948304,"£2,499",3.8 (34 reviews) leighton buzzard (9 miles),2005,Saloon,89978,2.0L,,Automatic,Diesel,2.0,BMW,MK3 6JS
+13,BMW 3 Series,https://www.autotrader.co.uk/car-details/202212072341385,"£2,359",3.7 (61 reviews) milton keynes (7 miles),2005,Saloon,167767,3.0L,,Manual,Diesel,4.0,BMW,MK3 6JS
+14,Renault Clio,https://www.autotrader.co.uk/car-details/202211081483778,"£1,990",4.6 (298 reviews) milton keynes (6 miles),2005,Hatchback,64000,1.2L,75.0,Manual,Petrol,,Renault,MK3 6JS
+15,BMW 3 Series,https://www.autotrader.co.uk/car-details/202303105098095,"£2,909",3.7 (61 reviews) milton keynes (7 miles),2005,Coupe,145260,3.0L,231.0,Automatic,Petrol,,BMW,MK3 6JS
+16,Toyota Yaris,https://www.autotrader.co.uk/car-details/202302224521113,"£2,490",4.8 (116 reviews) bedford (7 miles),2005,Hatchback,62000,1.0L,67.0,Manual,Petrol,,Toyota,MK3 6JS
+17,Renault Megane,https://www.autotrader.co.uk/car-details/202303024829821,"£1,990",4.6 (298 reviews) milton keynes (6 miles),2005,Hatchback,89000,1.6L,115.0,Manual,Petrol,,Renault,MK3 6JS
+18,Volkswagen Golf Plus,https://www.autotrader.co.uk/car-details/202304015864475,"£1,499",3.8 (34 reviews) leighton buzzard (9 miles),2005,Hatchback,135700,1.9L,103.0,Manual,Diesel,6.0,Volkswagen,MK3 6JS
+19,MINI Hatch,https://www.autotrader.co.uk/car-details/202304206494247,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2005,Hatchback,92000,1.6L,,Manual,Petrol,,MINI,MK3 6JS
+20,Ford Mondeo,https://www.autotrader.co.uk/car-details/202303075000504,£999,4.1 (21 reviews) leighton buzzard (8 miles),2005,Hatchback,129000,2.0L,143.0,Manual,Petrol,,Ford,MK3 6JS
+21,BMW 3 Series,https://www.autotrader.co.uk/car-details/202304286773219,"£4,309",3.7 (61 reviews) milton keynes (7 miles),2005,Saloon,125925,3.0L,,Automatic,Petrol,9.0,BMW,MK3 6JS
+22,Land Rover Freelander,https://www.autotrader.co.uk/car-details/202304116180071,"£2,995",bedford (7 miles),2005,SUV,60000,1.8L,,Manual,Petrol,4.0,Land,MK3 6JS
+23,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202305036948903,"£2,499",3.8 (34 reviews) leighton buzzard (9 miles),2005,Hatchback,42500,1.4L,89.0,Manual,Petrol,3.0,Vauxhall,MK3 6JS
+24,Mercedes-Benz CLK,https://www.autotrader.co.uk/car-details/202304186417061,"£3,000",4.7 (34 reviews) milton keynes (4 miles),2005,Coupe,100000,2.1L,150.0,Automatic,Diesel,,Mercedes-Benz,MK3 6JS
+25,Audi TT,https://www.autotrader.co.uk/car-details/202304276742978,"£1,809",3.7 (61 reviews) milton keynes (7 miles),2005,Convertible,91151,1.8L,150.0,Manual,Petrol,4.0,Audi,MK3 6JS
+26,BMW 5 Series,https://www.autotrader.co.uk/car-details/202304196443722,"£3,490",4.6 (298 reviews) milton keynes (6 miles),2005,Saloon,110000,3.0L,,Automatic,Diesel,,BMW,MK3 6JS
+27,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202304025877226,"£2,299",4.9 (10 reviews) milton keynes (5 miles),2005,Hatchback,38060,1.2L,79.0,Manual,Petrol,3.0,Vauxhall,MK3 6JS
+28,Mitsubishi Shogun Sport,https://www.autotrader.co.uk/car-details/202303255626238,"£2,300",aylesbury (10 miles),2005,SUV,90000,2.5L,114.0,Manual,Diesel,,Mitsubishi,MK3 6JS
+29,Renault Clio,https://www.autotrader.co.uk/car-details/202305047020414,"£1,795",4.1 (44 reviews) milton keynes (1 mile),2005,Hatchback,68450,1.2L,75.0,Manual,Petrol,2.0,Renault,MK3 6JS
+30,BMW 3 Series,https://www.autotrader.co.uk/car-details/202303275654475,"£2,359",3.7 (61 reviews) milton keynes (7 miles),2005,Saloon,182308,3.0L,,Automatic,Petrol,5.0,BMW,MK3 6JS
+31,Nissan Micra,https://www.autotrader.co.uk/car-details/202303044888382,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2005,Hatchback,32000,1.2L,79.0,Manual,Petrol,,Nissan,MK3 6JS
+32,Ford Focus,https://www.autotrader.co.uk/car-details/202304176388506,"£3,000",4.0 (47 reviews) milton keynes (1 mile),2005,Hatchback,29750,1.6L,99.0,Manual,Petrol,,Ford,MK3 6JS
+33,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202303145234404,"£2,799",4.7 (34 reviews) milton keynes (4 miles),2005,Hatchback,104000,2.0L,138.0,Manual,Diesel,2.0,Volkswagen,MK3 6JS
+34,Volkswagen Sharan,https://www.autotrader.co.uk/car-details/202304266692661,"£3,890",4.7 (118 reviews) milton keynes (4 miles),2005,MPV,87476,1.9L,130.0,Manual,Diesel,3.0,Volkswagen,MK3 6JS
+35,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202302023854683,"£2,990",4.8 (116 reviews) bedford (7 miles),2005,Hatchback,58000,1.3L,70.0,Manual,Diesel,,Vauxhall,MK3 6JS
+36,BMW 5 Series,https://www.autotrader.co.uk/car-details/202303175342238,"£3,209",3.7 (61 reviews) milton keynes (7 miles),2005,Estate,188709,3.0L,,Automatic,Diesel,5.0,BMW,MK3 6JS
+37,Honda Jazz,https://www.autotrader.co.uk/car-details/202304286781608,"£3,499",3.8 (34 reviews) leighton buzzard (9 miles),2005,Hatchback,68000,1.4L,82.0,Automatic,Petrol,,Honda,MK3 6JS
+38,Nissan Almera,https://www.autotrader.co.uk/car-details/202304146280691,"£2,490",4.8 (116 reviews) bedford (7 miles),2005,Hatchback,49000,1.5L,89.0,Manual,Petrol,,Nissan,MK3 6JS
+39,Lexus GS 300,https://www.autotrader.co.uk/car-details/202209250095096,"£3,850",newport pagnell (6 miles),2005,Saloon,154000,3.0L,245.0,Automatic,Petrol,3.0,Lexus,MK3 6JS
+40,Renault Megane,https://www.autotrader.co.uk/car-details/202304276748424,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2005,Hatchback,67000,1.6L,111.0,Manual,Petrol,,Renault,MK3 6JS
+41,Nissan Almera,https://www.autotrader.co.uk/car-details/202303024830547,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2005,Hatchback,59000,1.5L,89.0,Manual,Petrol,,Nissan,MK3 6JS
+42,BMW 1 Series,https://www.autotrader.co.uk/car-details/202212052282746,"£2,495",4.7 (51 reviews) milton keynes (3 miles),2005,Hatchback,110100,1.6L,,Manual,Petrol,,BMW,MK3 6JS
+43,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202302023863288,"£4,799",4.8 (71 reviews) leighton buzzard (8 miles),2005,Hatchback,116504,2.0L,197.0,Manual,Petrol,,Volkswagen,MK3 6JS
+44,Nissan Micra,https://www.autotrader.co.uk/car-details/202304196443373,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2005,Hatchback,70000,1.0L,64.0,Manual,Petrol,,Nissan,MK3 6JS
+45,Toyota Land Cruiser,https://www.autotrader.co.uk/car-details/202206297296462,"£6,499",3.8 (34 reviews) leighton buzzard (9 miles),2005,SUV,123800,3.0L,,Automatic,Diesel,,Toyota,MK3 6JS
+46,Hyundai Tucson,https://www.autotrader.co.uk/car-details/202304035928780,"£2,995",4.9 (26 reviews) milton keynes (2 miles),2005,SUV,84500,2.0L,111.0,Manual,Diesel,3.0,Hyundai,MK3 6JS
+47,Nissan Micra,https://www.autotrader.co.uk/car-details/202303225500624,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2005,Hatchback,93000,1.2L,79.0,Manual,Petrol,,Nissan,MK3 6JS
+48,Porsche Boxster,https://www.autotrader.co.uk/car-details/202305016881475,"£9,500",milton keynes (6 miles),2005,Convertible,107825,2.7L,245.0,Automatic,Petrol,,Porsche,MK3 6JS
+49,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202304256650462,"£2,350",milton keynes (2 miles),2005,Hatchback,172000,2.0L,198.0,Manual,Petrol,6.0,Volkswagen,MK3 6JS
+50,Volvo V70,https://www.autotrader.co.uk/car-details/202302254634310,"£4,950",5.0 (30 reviews) leighton buzzard (9 miles),2005,Estate,98372,2.4L,163.0,Automatic,Diesel,2.0,Volvo,MK3 6JS
+51,Smart Roadster,https://www.autotrader.co.uk/car-details/202305057067701,"£7,500",leighton buzzard (8 miles),2005,Convertible,49822,0.7L,101.0,Automatic,Petrol,2.0,Smart,MK3 6JS
+52,MINI Hatch,https://www.autotrader.co.uk/car-details/202305016877016,"£2,990",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,67000,1.6L,,Manual,Petrol,,MINI,MK3 6JS
+53,Mazda3,https://www.autotrader.co.uk/car-details/202305047015687,£990,5.0 (1 review) milton keynes (2 miles),2006,Hatchback,111594,1.6L,103.0,Manual,Petrol,5.0,Mazda3,MK3 6JS
+54,Jaguar S-Type,https://www.autotrader.co.uk/car-details/202304256647933,£990,4.6 (298 reviews) milton keynes (6 miles),2006,Saloon,111000,2.7L,206.0,Automatic,Diesel,,Jaguar,MK3 6JS
+55,Mercedes-Benz C Class,https://www.autotrader.co.uk/car-details/202305077112149,"£1,790",4.6 (298 reviews) milton keynes (6 miles),2006,Saloon,137000,2.1L,150.0,Automatic,Diesel,,Mercedes-Benz,MK3 6JS
+56,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202305077103711,"£1,049",3.7 (61 reviews) milton keynes (7 miles),2006,Convertible,102000,1.8L,138.0,Manual,Petrol,7.0,Vauxhall,MK3 6JS
+57,Volkswagen Beetle,https://www.autotrader.co.uk/car-details/202304156302741,"£1,899",4.9 (10 reviews) milton keynes (5 miles),2006,Convertible,93058,1.4L,,Manual,Petrol,4.0,Volkswagen,MK3 6JS
+58,Peugeot 207,https://www.autotrader.co.uk/car-details/202302284720786,"£1,499",3.8 (34 reviews) leighton buzzard (9 miles),2006,Hatchback,80200,1.4L,90.0,Manual,Petrol,5.0,Peugeot,MK3 6JS
+59,BMW 3 Series,https://www.autotrader.co.uk/car-details/202303185367992,"£2,259",3.7 (61 reviews) milton keynes (7 miles),2006,Saloon,146470,2.5L,,Automatic,Petrol,12.0,BMW,MK3 6JS
+60,Suzuki Swift,https://www.autotrader.co.uk/car-details/202303225507218,"£1,990",4.8 (116 reviews) bedford (7 miles),2006,Hatchback,99000,1.3L,91.0,Manual,Petrol,,Suzuki,MK3 6JS
+61,Toyota Celica,https://www.autotrader.co.uk/car-details/202305057039769,"£2,489",4.9 (47 reviews) buckingham (8 miles),2006,Coupe,101000,1.8L,140.0,Manual,Petrol,8.0,Toyota,MK3 6JS
+62,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202304126219124,"£1,899",4.3 (12 reviews) leighton buzzard (9 miles),2006,Hatchback,119000,1.4L,74.0,Manual,Petrol,,Volkswagen,MK3 6JS
+63,Ford KA,https://www.autotrader.co.uk/car-details/202210120651748,"£1,490",4.8 (116 reviews) bedford (7 miles),2006,Hatchback,57000,1.3L,69.0,Manual,Petrol,,Ford,MK3 6JS
+64,Peugeot 207,https://www.autotrader.co.uk/car-details/202305046990872,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,67000,1.4L,75.0,Manual,Petrol,,Peugeot,MK3 6JS
+65,Suzuki Ignis,https://www.autotrader.co.uk/car-details/202304066036969,"£2,390",4.8 (116 reviews) bedford (7 miles),2006,Hatchback,75000,1.3L,93.0,Manual,Petrol,,Suzuki,MK3 6JS
+66,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202302074012748,"£1,990",4.8 (116 reviews) bedford (7 miles),2006,Hatchback,73000,1.4L,89.0,Manual,Petrol,,Vauxhall,MK3 6JS
+67,Saab 9-3,https://www.autotrader.co.uk/car-details/202303285710138,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Convertible,114000,2.0L,150.0,Manual,Petrol,,Saab,MK3 6JS
+68,Vauxhall Meriva,https://www.autotrader.co.uk/car-details/202304196443986,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,MPV,63000,1.4L,89.0,Manual,Petrol,,Vauxhall,MK3 6JS
+69,Peugeot 107,https://www.autotrader.co.uk/car-details/202304176363736,"£1,709",3.7 (61 reviews) milton keynes (7 miles),2006,Hatchback,89000,1.0L,,Manual,Petrol,4.0,Peugeot,MK3 6JS
+70,Ford Fiesta,https://www.autotrader.co.uk/car-details/202304226569322,"£1,999",4.9 (10 reviews) milton keynes (5 miles),2006,Hatchback,64210,1.4L,79.0,Manual,Petrol,5.0,Ford,MK3 6JS
+71,Citroen C1,https://www.autotrader.co.uk/car-details/202305057057916,"£2,000",4.1 (44 reviews) milton keynes (1 mile),2006,Hatchback,48755,1.0L,,Manual,Petrol,3.0,Citroen,MK3 6JS
+72,Saab 9-3,https://www.autotrader.co.uk/car-details/202303085027503,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Estate,117000,1.8L,120.0,Manual,Petrol,,Saab,MK3 6JS
+73,Daihatsu Terios,https://www.autotrader.co.uk/car-details/202212262781692,"£2,500",4.9 (28 reviews) leighton buzzard (9 miles),2006,SUV,94800,1.3L,85.0,Automatic,Petrol,5.0,Daihatsu,MK3 6JS
+74,Vauxhall Zafira,https://www.autotrader.co.uk/car-details/202304166331458,"£1,250",5.0 (2 reviews) leighton buzzard (9 miles),2006,MPV,129000,1.6L,,Manual,Petrol,3.0,Vauxhall,MK3 6JS
+75,Renault Megane,https://www.autotrader.co.uk/car-details/202302114169057,"£1,995",4.9 (92 reviews) milton keynes (3 miles),2006,Hatchback,113567,1.9L,130.0,Manual,Diesel,4.0,Renault,MK3 6JS
+76,Vauxhall Corsa Van,https://www.autotrader.co.uk/car-details/202305036962915,"£2,868",4.8 (116 reviews) bedford (7 miles),2006,,62000,1.3L,69.0,Manual,Diesel,,Vauxhall,MK3 6JS
+77,Peugeot 207,https://www.autotrader.co.uk/car-details/202304256646585,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,63000,1.6L,110.0,Manual,Petrol,,Peugeot,MK3 6JS
+78,Vauxhall Zafira,https://www.autotrader.co.uk/car-details/202303175339911,"£2,495",4.7 (18 reviews) newport pagnell (6 miles),2006,MPV,111000,1.9L,150.0,Manual,Diesel,,Vauxhall,MK3 6JS
+79,Suzuki Swift,https://www.autotrader.co.uk/car-details/202304035913297,"£2,495",4.7 (51 reviews) milton keynes (3 miles),2006,Hatchback,99050,1.5L,101.0,Manual,Petrol,3.0,Suzuki,MK3 6JS
+80,Mercedes-Benz E Class,https://www.autotrader.co.uk/car-details/202304236576872,"£3,009",3.7 (61 reviews) milton keynes (7 miles),2006,Saloon,106308,3.0L,221.0,Automatic,Diesel,2.0,Mercedes-Benz,MK3 6JS
+81,Jaguar X-Type,https://www.autotrader.co.uk/car-details/202301233518424,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Saloon,98000,2.5L,194.0,Manual,Petrol,,Jaguar,MK3 6JS
+82,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202305046989022,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,113000,1.8L,123.0,Automatic,Petrol,,Vauxhall,MK3 6JS
+83,Peugeot 206,https://www.autotrader.co.uk/car-details/202303305789495,"£3,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,56000,1.6L,110.0,Automatic,Petrol,,Peugeot,MK3 6JS
+84,Suzuki Ignis,https://www.autotrader.co.uk/car-details/202302023854203,"£3,290",4.8 (116 reviews) bedford (7 miles),2006,Hatchback,87000,1.5L,98.0,Automatic,Petrol,,Suzuki,MK3 6JS
+85,Nissan Micra,https://www.autotrader.co.uk/car-details/202304106148358,"£1,999",3.8 (34 reviews) leighton buzzard (9 miles),2006,Hatchback,71300,1.2L,79.0,Manual,Petrol,2.0,Nissan,MK3 6JS
+86,Honda Jazz,https://www.autotrader.co.uk/car-details/202304266704123,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,89000,1.4L,82.0,Manual,Petrol,,Honda,MK3 6JS
+87,Toyota RAV4,https://www.autotrader.co.uk/car-details/202303205433669,"£4,990",4.8 (116 reviews) bedford (7 miles),2006,SUV,90000,2.2L,175.0,Manual,Diesel,,Toyota,MK3 6JS
+88,Mazda3,https://www.autotrader.co.uk/car-details/202302023859597,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,102000,1.6L,103.0,Manual,Petrol,,Mazda3,MK3 6JS
+89,Toyota Corolla,https://www.autotrader.co.uk/car-details/202212062322623,"£2,290",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,121000,1.6L,109.0,Manual,Petrol,,Toyota,MK3 6JS
+90,Ford Fusion,https://www.autotrader.co.uk/car-details/202301293720311,"£2,000",4.7 (34 reviews) milton keynes (4 miles),2006,Hatchback,76000,1.4L,79.0,Manual,Petrol,3.0,Ford,MK3 6JS
+91,Honda Jazz,https://www.autotrader.co.uk/car-details/202302214484164,"£2,695",4.9 (26 reviews) milton keynes (2 miles),2006,Hatchback,98000,1.4L,82.0,Manual,Petrol,5.0,Honda,MK3 6JS
+92,Ford Fusion,https://www.autotrader.co.uk/car-details/202208158808921,"£2,190",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,90000,1.6L,99.0,Manual,Petrol,,Ford,MK3 6JS
+93,Ford Focus C-Max,https://www.autotrader.co.uk/car-details/202303215470794,"£2,990",4.8 (116 reviews) bedford (7 miles),2006,MPV,83000,2.0L,143.0,Automatic,Petrol,,Ford,MK3 6JS
+94,BMW 3 Series,https://www.autotrader.co.uk/car-details/202304066028479,"£2,500",4.7 (51 reviews) milton keynes (3 miles),2006,Saloon,104850,2.0L,,Manual,Diesel,3.0,BMW,MK3 6JS
+95,Saab 9-3,https://www.autotrader.co.uk/car-details/202304256649212,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Saloon,111000,2.0L,175.0,Automatic,Petrol,,Saab,MK3 6JS
+96,Citroen Xsara Picasso,https://www.autotrader.co.uk/car-details/202303185381933,"£2,000",4.1 (44 reviews) milton keynes (1 mile),2006,MPV,84937,2.0L,137.0,Automatic,Petrol,,Citroen,MK3 6JS
+97,Vauxhall Tigra,https://www.autotrader.co.uk/car-details/202206227051591,"£1,499",3.8 (34 reviews) leighton buzzard (9 miles),2006,Convertible,87150,1.8L,123.0,Manual,Petrol,6.0,Vauxhall,MK3 6JS
+98,Honda Jazz,https://www.autotrader.co.uk/car-details/202305036970465,"£2,200",milton keynes (1 mile),2006,Hatchback,109000,1.4L,82.0,Manual,Petrol,2.0,Honda,MK3 6JS
+99,Honda Civic,https://www.autotrader.co.uk/car-details/202303205433301,"£1,750",3.8 (34 reviews) leighton buzzard (9 miles),2006,Hatchback,147500,1.8L,138.0,Manual,Petrol,4.0,Honda,MK3 6JS
+100,Honda Civic,https://www.autotrader.co.uk/car-details/202304106145785,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,123000,1.8L,138.0,Manual,Petrol,,Honda,MK3 6JS
+101,BMW Z4,https://www.autotrader.co.uk/car-details/202304025882952,"£3,049",3.7 (61 reviews) milton keynes (7 miles),2006,Convertible,92278,2.0L,,Manual,Petrol,4.0,BMW,MK3 6JS
+102,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202303195402899,"£4,000",4.7 (34 reviews) milton keynes (4 miles),2006,Hatchback,120000,2.0L,198.0,Manual,Petrol,,Volkswagen,MK3 6JS
+103,Toyota Avensis,https://www.autotrader.co.uk/car-details/202305016877104,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,111000,1.8L,127.0,Manual,Petrol,,Toyota,MK3 6JS
+104,Fiat Grande Punto,https://www.autotrader.co.uk/car-details/202305026920514,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,75000,1.4L,77.0,Manual,Petrol,,Fiat,MK3 6JS
+105,Toyota Yaris,https://www.autotrader.co.uk/car-details/202304186419767,"£2,995",4.9 (92 reviews) milton keynes (3 miles),2006,Hatchback,82941,1.0L,67.0,Manual,Petrol,4.0,Toyota,MK3 6JS
+106,KIA Picanto,https://www.autotrader.co.uk/car-details/202301243567182,"£2,490",4.8 (116 reviews) bedford (7 miles),2006,Hatchback,58000,1.1L,64.0,Manual,Petrol,,KIA,MK3 6JS
+107,Smart Fortwo,https://www.autotrader.co.uk/car-details/202302214487586,"£3,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,30000,0.7L,61.0,Automatic,Petrol,,Smart,MK3 6JS
+108,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202302204461845,"£2,390",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,105000,1.6L,103.0,Manual,Petrol,,Vauxhall,MK3 6JS
+109,Jaguar XJ,https://www.autotrader.co.uk/car-details/202304226549423,"£3,950",milton keynes (4 miles),2006,Saloon,64900,2.7L,204.0,Automatic,Diesel,5.0,Jaguar,MK3 6JS
+110,Subaru Outback,https://www.autotrader.co.uk/car-details/202304186415406,"£4,490",4.8 (116 reviews) bedford (7 miles),2006,Estate,96000,2.5L,162.0,Automatic,Petrol,,Subaru,MK3 6JS
+111,Volvo V50,https://www.autotrader.co.uk/car-details/202305026930739,"£1,995",4.9 (26 reviews) milton keynes (2 miles),2006,Estate,175900,2.0L,136.0,Manual,Diesel,5.0,Volvo,MK3 6JS
+112,Mercedes-Benz CLS,https://www.autotrader.co.uk/car-details/202304276748885,"£4,490",4.6 (298 reviews) milton keynes (6 miles),2006,Saloon,96000,3.0L,221.0,Automatic,Diesel,,Mercedes-Benz,MK3 6JS
+113,Citroen Xsara Picasso,https://www.autotrader.co.uk/car-details/202305057046305,"£1,990",4.6 (298 reviews) milton keynes (6 miles),2006,MPV,104000,1.6L,92.0,Manual,Diesel,,Citroen,MK3 6JS
+114,Toyota Corolla,https://www.autotrader.co.uk/car-details/202305016884753,"£2,495",4.0 (14 reviews) milton keynes (1 mile),2006,Hatchback,82500,1.6L,109.0,Manual,Petrol,2.0,Toyota,MK3 6JS
+115,Volkswagen Polo,https://www.autotrader.co.uk/car-details/202304276728127,"£1,499",4.9 (10 reviews) milton keynes (5 miles),2006,Hatchback,134500,1.2L,65.0,Manual,Petrol,7.0,Volkswagen,MK3 6JS
+116,Peugeot 206 CC,https://www.autotrader.co.uk/car-details/202304246617075,"£1,499",milton keynes (5 miles),2006,Convertible,96571,1.6L,110.0,Manual,Diesel,,Peugeot,MK3 6JS
+117,BMW 3 Series,https://www.autotrader.co.uk/car-details/202304106154431,"£2,995",milton keynes (1 mile),2006,Convertible,117887,2.0L,150.0,Automatic,Petrol,,BMW,MK3 6JS
+118,Suzuki Wagon R,https://www.autotrader.co.uk/car-details/202305016877210,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,52000,1.2L,79.0,Manual,Petrol,,Suzuki,MK3 6JS
+119,Volkswagen Beetle,https://www.autotrader.co.uk/car-details/202304206489580,"£3,499",4.6 (34 reviews) milton keynes (7 miles),2006,Hatchback,76700,2.0L,,Automatic,Petrol,3.0,Volkswagen,MK3 6JS
+120,Mitsubishi L200,https://www.autotrader.co.uk/car-details/202303115140637,"£6,990",4.6 (298 reviews) milton keynes (6 miles),2006,Pickup,118000,2.5L,134.0,Automatic,Diesel,,Mitsubishi,MK3 6JS
+121,Renault Megane,https://www.autotrader.co.uk/car-details/202303064958752,"£3,790",4.8 (116 reviews) bedford (7 miles),2006,Estate,61000,1.6L,111.0,Automatic,Petrol,,Renault,MK3 6JS
+122,Citroen C2,https://www.autotrader.co.uk/car-details/202302144257887,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,74000,1.1L,59.0,Manual,Petrol,,Citroen,MK3 6JS
+123,Audi A4,https://www.autotrader.co.uk/car-details/202302274687593,"£2,499",3.8 (34 reviews) leighton buzzard (9 miles),2006,Saloon,129250,2.0L,128.0,Manual,Petrol,3.0,Audi,MK3 6JS
+124,Ford Focus C-Max,https://www.autotrader.co.uk/car-details/202304246623662,"£2,800",4.0 (47 reviews) milton keynes (1 mile),2006,MPV,47890,1.6L,113.0,Manual,Petrol,2.0,Ford,MK3 6JS
+125,Peugeot 206 SW,https://www.autotrader.co.uk/car-details/202303024829155,"£3,490",4.6 (298 reviews) milton keynes (6 miles),2006,Estate,79000,1.6L,110.0,Automatic,Petrol,,Peugeot,MK3 6JS
+126,Fiat Panda,https://www.autotrader.co.uk/car-details/202304015867087,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,54000,1.1L,54.0,Manual,Petrol,,Fiat,MK3 6JS
+127,SKODA Fabia,https://www.autotrader.co.uk/car-details/202304045947878,"£2,199",4.7 (34 reviews) milton keynes (4 miles),2006,Estate,90000,1.2L,64.0,Manual,Petrol,2.0,SKODA,MK3 6JS
+128,Mazda RX-8,https://www.autotrader.co.uk/car-details/202304136256835,"£5,500",aylesbury (10 miles),2006,Coupe,51000,1.3L,228.0,Manual,Petrol,4.0,Mazda,MK3 6JS
+129,Nissan Micra,https://www.autotrader.co.uk/car-details/202304156321226,"£1,995",4.9 (26 reviews) milton keynes (2 miles),2006,Hatchback,118400,1.2L,79.0,Manual,Petrol,8.0,Nissan,MK3 6JS
+130,Hyundai Amica,https://www.autotrader.co.uk/car-details/202304045954227,"£1,995",4.7 (51 reviews) milton keynes (3 miles),2006,Hatchback,54650,1.1L,62.0,Manual,Petrol,,Hyundai,MK3 6JS
+131,Mazda 3,https://www.autotrader.co.uk/car-details/202302194424928,"£1,999",4.8 (71 reviews) leighton buzzard (8 miles),2006,Hatchback,133894,1.6L,105.0,Manual,Petrol,,Mazda,MK3 6JS
+132,Porsche Boxster,https://www.autotrader.co.uk/car-details/202303064958426,"£8,799",4.1 (21 reviews) leighton buzzard (8 miles),2006,Convertible,104000,2.7L,240.0,Manual,Petrol,,Porsche,MK3 6JS
+133,Audi A6 Saloon,https://www.autotrader.co.uk/car-details/202302204472723,"£3,750",4.6 (34 reviews) milton keynes (7 miles),2006,Saloon,110150,2.0L,168.0,Automatic,Petrol,4.0,Audi,MK3 6JS
+134,Mitsubishi Shogun,https://www.autotrader.co.uk/car-details/202202232859773,"£5,499",3.8 (34 reviews) leighton buzzard (9 miles),2006,SUV,112000,3.5L,200.0,Automatic,Petrol,5.0,Mitsubishi,MK3 6JS
+135,Fiat Panda,https://www.autotrader.co.uk/car-details/202303165301272,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,66000,1.1L,54.0,Manual,Petrol,,Fiat,MK3 6JS
+136,Nissan Micra,https://www.autotrader.co.uk/car-details/202301042946109,"£2,290",4.6 (298 reviews) milton keynes (6 miles),2006,Hatchback,91000,1.2L,79.0,Manual,Petrol,,Nissan,MK3 6JS
+137,MINI Convertible,https://www.autotrader.co.uk/car-details/202305067080750,"£4,495",milton keynes (3 miles),2006,Convertible,87522,1.6L,,Automatic,Petrol,,MINI,MK3 6JS
+138,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202305047007860,"£4,499",3.8 (34 reviews) leighton buzzard (9 miles),2006,Hatchback,78120,1.6L,113.0,Automatic,Petrol,2.0,Volkswagen,MK3 6JS
+139,Ford Focus C-Max,https://www.autotrader.co.uk/car-details/202304266698738,"£1,995",5.0 (23 reviews) milton keynes (2 miles),2006,MPV,134500,1.6L,99.0,Manual,Petrol,3.0,Ford,MK3 6JS
+140,Audi A8,https://www.autotrader.co.uk/car-details/202211021300302,"£9,990",milton keynes (3 miles),2006,Saloon,147500,6.0L,443.0,Automatic,Petrol,2.0,Audi,MK3 6JS
+141,Hyundai Getz,https://www.autotrader.co.uk/car-details/202303145235076,"£2,390",4.8 (116 reviews) bedford (7 miles),2006,Hatchback,74000,1.1L,65.0,Manual,Petrol,,Hyundai,MK3 6JS
+142,Renault Clio,https://www.autotrader.co.uk/car-details/202304055981517,"£3,895",milton keynes (3 miles),2006,Hatchback,34835,1.6L,111.0,Automatic,Petrol,,Renault,MK3 6JS
+143,Audi A4,https://www.autotrader.co.uk/car-details/202304066054098,"£3,695",milton keynes (4 miles),2006,Saloon,76855,2.0L,128.0,Automatic,Petrol,2.0,Audi,MK3 6JS
+144,Citroen C1,https://www.autotrader.co.uk/car-details/202304286789782,"£2,495",milton keynes (5 miles),2006,Hatchback,87250,1.0L,,Manual,Petrol,2.0,Citroen,MK3 6JS
+145,Jaguar XJ,https://www.autotrader.co.uk/car-details/202304196450893,"£9,975",bedford (10 miles),2006,Saloon,50940,3.0L,240.0,Automatic,Petrol,3.0,Jaguar,MK3 6JS
+146,Nissan 350 Z,https://www.autotrader.co.uk/car-details/202304216528112,"£10,000",towcester (9 miles),2006,Convertible,34830,3.5L,276.0,Manual,Petrol,6.0,Nissan,MK3 6JS
+147,Mazda3,https://www.autotrader.co.uk/car-details/202305047000080,£990,milton keynes (2 miles),2006,Hatchback,111500,1.6L,103.0,Manual,Petrol,4.0,Mazda3,MK3 6JS
+148,Nissan Almera,https://www.autotrader.co.uk/car-details/202305016882976,"£2,175",bedford (9 miles),2006,Hatchback,58523,1.5L,89.0,Manual,Petrol,2.0,Nissan,MK3 6JS
+149,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202305036952608,"£1,309",3.7 (61 reviews) milton keynes (7 miles),2007,Hatchback,102000,1.0L,59.0,Manual,Petrol,7.0,Vauxhall,MK3 6JS
+150,Fiat Grande Punto,https://www.autotrader.co.uk/car-details/202303145226451,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,67000,1.4L,77.0,Manual,Petrol,,Fiat,MK3 6JS
+151,Vauxhall Vectra,https://www.autotrader.co.uk/car-details/202304286771906,"£1,300",4.9 (10 reviews) milton keynes (5 miles),2007,Hatchback,106750,1.8L,138.0,Manual,Petrol,2.0,Vauxhall,MK3 6JS
+152,Ford Focus,https://www.autotrader.co.uk/car-details/202305046988928,"£2,490",4.8 (116 reviews) bedford (7 miles),2007,Hatchback,78000,1.8L,123.0,Manual,Petrol,,Ford,MK3 6JS
+153,Mercedes-Benz E Class,https://www.autotrader.co.uk/car-details/202304106147082,"£1,200",4.9 (28 reviews) leighton buzzard (9 miles),2007,Saloon,181980,2.1L,170.0,Automatic,Diesel,5.0,Mercedes-Benz,MK3 6JS
+154,BMW 3 Series,https://www.autotrader.co.uk/car-details/202302154291173,"£2,859",3.7 (61 reviews) milton keynes (7 miles),2007,Estate,123560,3.0L,,Automatic,Petrol,4.0,BMW,MK3 6JS
+155,Renault Clio,https://www.autotrader.co.uk/car-details/202305046990496,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,80000,1.4L,98.0,Manual,Petrol,,Renault,MK3 6JS
+156,Vauxhall Vectra,https://www.autotrader.co.uk/car-details/202212082381887,"£1,990",4.8 (116 reviews) bedford (7 miles),2007,Hatchback,99000,1.8L,138.0,Manual,Petrol,,Vauxhall,MK3 6JS
+157,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202302244606150,"£1,999",3.8 (34 reviews) leighton buzzard (9 miles),2007,Hatchback,87600,1.8L,138.0,Manual,Petrol,3.0,Vauxhall,MK3 6JS
+158,MINI Hatch,https://www.autotrader.co.uk/car-details/202304025886235,"£2,499",4.6 (34 reviews) milton keynes (7 miles),2007,Hatchback,73180,1.4L,,Manual,Petrol,4.0,MINI,MK3 6JS
+159,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202304276744172,"£2,884",leighton buzzard (9 miles),2007,Hatchback,83000,1.6L,113.0,Manual,Petrol,2.0,Volkswagen,MK3 6JS
+160,Suzuki SX4,https://www.autotrader.co.uk/car-details/202304015854592,"£1,375",leighton buzzard (8 miles),2007,SUV,108510,1.9L,,Manual,Diesel,7.0,Suzuki,MK3 6JS
+161,BMW 3 Series,https://www.autotrader.co.uk/car-details/202212162563235,"£3,495",4.7 (51 reviews) milton keynes (3 miles),2007,Saloon,129550,2.0L,,Automatic,Diesel,5.0,BMW,MK3 6JS
+162,Ford Focus,https://www.autotrader.co.uk/car-details/202305046988928,"£2,490",4.8 (116 reviews) bedford (7 miles),2007,Hatchback,78000,1.8L,123.0,Manual,Petrol,,Ford,MK3 6JS
+163,Renault Clio,https://www.autotrader.co.uk/car-details/202304186420291,"£2,195",4.9 (92 reviews) milton keynes (3 miles),2007,Hatchback,116432,1.2L,75.0,Manual,Petrol,5.0,Renault,MK3 6JS
+164,SKODA Fabia,https://www.autotrader.co.uk/car-details/202302013828609,"£2,499",milton keynes (10 miles),2007,Hatchback,85000,1.4L,85.0,Manual,Petrol,,SKODA,MK3 6JS
+165,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202304286761498,"£3,680",milton keynes (3 miles),2007,Hatchback,71000,1.4L,89.0,Automatic,Petrol,2.0,Vauxhall,MK3 6JS
+166,Ford Focus,https://www.autotrader.co.uk/car-details/202304066034408,"£1,699",4.9 (10 reviews) milton keynes (5 miles),2007,Hatchback,107890,1.6L,99.0,Manual,Petrol,2.0,Ford,MK3 6JS
+167,Toyota Yaris,https://www.autotrader.co.uk/car-details/202304035934381,"£3,500",4.0 (47 reviews) milton keynes (1 mile),2007,Hatchback,85100,1.3L,85.0,Automatic,Petrol,,Toyota,MK3 6JS
+168,SKODA Octavia,https://www.autotrader.co.uk/car-details/202211251994982,"£1,750",3.8 (34 reviews) leighton buzzard (9 miles),2007,Hatchback,158650,2.0L,,Manual,Diesel,3.0,SKODA,MK3 6JS
+169,Peugeot 207,https://www.autotrader.co.uk/car-details/202302033905626,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,97000,1.4L,90.0,Manual,Petrol,,Peugeot,MK3 6JS
+170,Jaguar X-Type,https://www.autotrader.co.uk/car-details/202301253595377,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2007,Saloon,103000,2.5L,194.0,Manual,Petrol,,Jaguar,MK3 6JS
+171,Renault Clio,https://www.autotrader.co.uk/car-details/202304186420291,"£2,195",4.9 (92 reviews) milton keynes (3 miles),2007,Hatchback,116432,1.2L,75.0,Manual,Petrol,5.0,Renault,MK3 6JS
+172,Mitsubishi Shogun,https://www.autotrader.co.uk/car-details/202211021311393,"£5,990",4.6 (298 reviews) milton keynes (6 miles),2007,SUV,120000,3.2L,,Automatic,Diesel,,Mitsubishi,MK3 6JS
+173,Volkswagen Beetle,https://www.autotrader.co.uk/car-details/202304266689120,"£2,990",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,73000,1.9L,,Manual,Diesel,,Volkswagen,MK3 6JS
+174,Vauxhall Meriva,https://www.autotrader.co.uk/car-details/202304066033213,"£1,990",4.6 (298 reviews) milton keynes (6 miles),2007,MPV,107000,1.6L,104.0,Manual,Petrol,,Vauxhall,MK3 6JS
+175,Toyota Yaris,https://www.autotrader.co.uk/car-details/202304035934381,"£3,500",4.0 (47 reviews) milton keynes (1 mile),2007,Hatchback,85100,1.3L,85.0,Automatic,Petrol,,Toyota,MK3 6JS
+176,Mercedes-Benz Vito,https://www.autotrader.co.uk/car-details/202304266690343,"£6,990",4.6 (298 reviews) milton keynes (6 miles),2007,,93000,2.1L,95.0,Manual,Diesel,,Mercedes-Benz,MK3 6JS
+177,Vauxhall Zafira,https://www.autotrader.co.uk/car-details/202302154292738,"£2,390",4.6 (298 reviews) milton keynes (6 miles),2007,MPV,102000,1.8L,,Manual,Petrol,,Vauxhall,MK3 6JS
+178,Ford Focus,https://www.autotrader.co.uk/car-details/202304066034408,"£1,699",4.9 (10 reviews) milton keynes (5 miles),2007,Hatchback,107890,1.6L,99.0,Manual,Petrol,2.0,Ford,MK3 6JS
+179,SKODA Fabia,https://www.autotrader.co.uk/car-details/202302013828609,"£2,499",milton keynes (10 miles),2007,Hatchback,85000,1.4L,85.0,Manual,Petrol,,SKODA,MK3 6JS
+180,SKODA Octavia,https://www.autotrader.co.uk/car-details/202211251994982,"£1,750",3.8 (34 reviews) leighton buzzard (9 miles),2007,Hatchback,158650,2.0L,,Manual,Diesel,3.0,SKODA,MK3 6JS
+181,Ford KA,https://www.autotrader.co.uk/car-details/202305046989265,"£1,990",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,37000,1.3L,69.0,Manual,Petrol,,Ford,MK3 6JS
+182,Volvo V70,https://www.autotrader.co.uk/car-details/202304126210544,"£3,000",4.0 (47 reviews) milton keynes (1 mile),2007,Estate,130956,2.4L,,Automatic,Diesel,,Volvo,MK3 6JS
+183,Fiat Doblo,https://www.autotrader.co.uk/car-details/202303315829095,"£2,500",4.1 (44 reviews) milton keynes (1 mile),2007,Estate,69505,1.3L,70.0,Manual,Diesel,,Fiat,MK3 6JS
+184,Citroen C4 Picasso,https://www.autotrader.co.uk/car-details/202304186412128,"£3,490",4.6 (298 reviews) milton keynes (6 miles),2007,MPV,72000,1.6L,,Automatic,Diesel,,Citroen,MK3 6JS
+185,Audi A4,https://www.autotrader.co.uk/car-details/202304015874699,"£1,999",3.2 (13 reviews) leighton buzzard (9 miles),2007,Saloon,141750,2.0L,138.0,Automatic,Diesel,5.0,Audi,MK3 6JS
+186,Nissan Micra,https://www.autotrader.co.uk/car-details/202305067076815,"£1,800",milton keynes (3 miles),2007,Hatchback,103932,1.2L,79.0,Manual,Petrol,,Nissan,MK3 6JS
+187,KIA Picanto,https://www.autotrader.co.uk/car-details/202305077107775,"£2,500",4.7 (34 reviews) milton keynes (4 miles),2007,Hatchback,45000,1.1L,64.0,Manual,Petrol,,KIA,MK3 6JS
+188,Volvo C30,https://www.autotrader.co.uk/car-details/202303205437600,"£3,999",3.2 (13 reviews) leighton buzzard (9 miles),2007,Coupe,107960,2.5L,217.0,Automatic,Petrol,4.0,Volvo,MK3 6JS
+189,Vauxhall Zafira,https://www.autotrader.co.uk/car-details/202303135173801,"£1,850",4.6 (34 reviews) milton keynes (7 miles),2007,MPV,107589,1.8L,,Manual,Petrol,3.0,Vauxhall,MK3 6JS
+190,SEAT Ibiza,https://www.autotrader.co.uk/car-details/202303135200319,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,96000,1.4L,73.0,Manual,Petrol,,SEAT,MK3 6JS
+191,Renault Clio,https://www.autotrader.co.uk/car-details/202212082378230,"£2,390",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,91000,1.4L,98.0,Manual,Petrol,,Renault,MK3 6JS
+192,Ford Focus,https://www.autotrader.co.uk/car-details/202203103403453,"£1,499",3.8 (34 reviews) leighton buzzard (9 miles),2007,Hatchback,105350,1.8L,123.0,Manual,Petrol,2.0,Ford,MK3 6JS
+193,BMW X3,https://www.autotrader.co.uk/car-details/202302033912725,"£3,500",4.0 (47 reviews) milton keynes (1 mile),2007,SUV,86531,2.0L,,Manual,Diesel,,BMW,MK3 6JS
+194,SEAT Altea,https://www.autotrader.co.uk/car-details/202304276752436,"£1,500",4.0 (47 reviews) milton keynes (1 mile),2007,MPV,144084,1.6L,,Manual,Petrol,,SEAT,MK3 6JS
+195,BMW 3 Series,https://www.autotrader.co.uk/car-details/202303305791441,"£5,490",4.6 (298 reviews) milton keynes (6 miles),2007,Coupe,103000,3.0L,,Automatic,Diesel,,BMW,MK3 6JS
+196,Mercedes-Benz SLK,https://www.autotrader.co.uk/car-details/202305026902936,"£4,990",4.6 (298 reviews) milton keynes (6 miles),2007,Convertible,68000,1.8L,163.0,Automatic,Petrol,,Mercedes-Benz,MK3 6JS
+197,Volkswagen Passat,https://www.autotrader.co.uk/car-details/202210180854138,"£3,500",4.0 (47 reviews) milton keynes (1 mile),2007,Estate,78990,2.0L,,Manual,Diesel,2.0,Volkswagen,MK3 6JS
+198,BMW X5 3.0d,https://www.autotrader.co.uk/car-details/202304076059157,"£5,495",4.7 (18 reviews) newport pagnell (6 miles),2007,SUV,147000,3.0L,,Manual,Petrol,2.0,BMW,MK3 6JS
+199,Ford Fiesta,https://www.autotrader.co.uk/car-details/202305057046760,"£2,895",4.9 (26 reviews) milton keynes (2 miles),2007,Hatchback,99000,1.6L,89.0,Manual,Diesel,7.0,Ford,MK3 6JS
+200,Fiat Grande Punto,https://www.autotrader.co.uk/car-details/202304176355501,"£2,250",leighton buzzard (8 miles),2007,Hatchback,80000,1.4L,77.0,Manual,Petrol,2.0,Fiat,MK3 6JS
+201,Renault Modus,https://www.autotrader.co.uk/car-details/202304256648658,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,75000,1.2L,100.0,Manual,Petrol,,Renault,MK3 6JS
+202,BMW Z4,https://www.autotrader.co.uk/car-details/202301143249724,"£4,809",3.7 (61 reviews) milton keynes (7 miles),2007,Coupe,170688,3.0L,,Manual,Petrol,9.0,BMW,MK3 6JS
+203,Toyota Avensis,https://www.autotrader.co.uk/car-details/202303215457315,"£3,495",4.7 (51 reviews) milton keynes (3 miles),2007,Hatchback,112300,1.8L,127.0,Automatic,Petrol,3.0,Toyota,MK3 6JS
+204,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202304276744172,"£2,884",leighton buzzard (9 miles),2007,Hatchback,83000,1.6L,113.0,Manual,Petrol,2.0,Volkswagen,MK3 6JS
+205,Mitsubishi Colt,https://www.autotrader.co.uk/car-details/202209260125796,"£1,990",4.8 (116 reviews) bedford (7 miles),2007,Hatchback,85000,1.3L,94.0,Manual,Petrol,,Mitsubishi,MK3 6JS
+206,Suzuki SX4,https://www.autotrader.co.uk/car-details/202303044893345,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2007,SUV,122000,1.6L,,Manual,Petrol,,Suzuki,MK3 6JS
+207,Vauxhall Agila,https://www.autotrader.co.uk/car-details/202304256646722,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2007,MPV,44000,1.2L,79.0,Manual,Petrol,,Vauxhall,MK3 6JS
+208,Suzuki SX4,https://www.autotrader.co.uk/car-details/202304015854592,"£1,375",leighton buzzard (8 miles),2007,SUV,108510,1.9L,,Manual,Diesel,7.0,Suzuki,MK3 6JS
+209,Honda Civic,https://www.autotrader.co.uk/car-details/202303034845851,"£4,209",3.7 (61 reviews) milton keynes (7 miles),2007,Hatchback,107006,2.0L,197.0,Manual,Petrol,2.0,Honda,MK3 6JS
+210,BMW Z4,https://www.autotrader.co.uk/car-details/202212202650868,"£4,209",3.7 (61 reviews) milton keynes (7 miles),2007,Convertible,127000,3.0L,,Automatic,Petrol,3.0,BMW,MK3 6JS
+211,Nissan Qashqai,https://www.autotrader.co.uk/car-details/202304186408429,"£2,499",3.8 (34 reviews) leighton buzzard (9 miles),2007,Hatchback,110700,2.0L,139.0,Manual,Petrol,4.0,Nissan,MK3 6JS
+212,Renault Clio,https://www.autotrader.co.uk/car-details/202212312864919,"£3,295",4.7 (51 reviews) milton keynes (3 miles),2007,Hatchback,85000,1.6L,111.0,Automatic,Petrol,2.0,Renault,MK3 6JS
+213,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202304286761498,"£3,680",milton keynes (3 miles),2007,Hatchback,71000,1.4L,89.0,Automatic,Petrol,2.0,Vauxhall,MK3 6JS
+214,BMW 3 Series,https://www.autotrader.co.uk/car-details/202304226551352,"£4,250",milton keynes (5 miles),2007,Saloon,60127,2.0L,,Automatic,Petrol,,BMW,MK3 6JS
+215,Nissan Note,https://www.autotrader.co.uk/car-details/202302074018826,"£2,495",4.7 (51 reviews) milton keynes (3 miles),2007,Hatchback,98200,1.4L,,Manual,Petrol,4.0,Nissan,MK3 6JS
+216,Fiat Panda,https://www.autotrader.co.uk/car-details/202301313778856,"£2,290",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,90000,1.1L,54.0,Manual,Petrol,,Fiat,MK3 6JS
+217,SEAT Ibiza,https://www.autotrader.co.uk/car-details/202304216520849,"£2,490",4.7 (118 reviews) milton keynes (4 miles),2007,Hatchback,86720,1.4L,84.0,Manual,Petrol,3.0,SEAT,MK3 6JS
+218,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202301233525203,"£3,500",4.7 (51 reviews) milton keynes (3 miles),2007,Hatchback,99500,1.4L,138.0,Manual,Petrol,4.0,Volkswagen,MK3 6JS
+219,Audi A3,https://www.autotrader.co.uk/car-details/202302134239430,"£2,550",milton keynes (5 miles),2007,Hatchback,155000,2.0L,168.0,Manual,Diesel,5.0,Audi,MK3 6JS
+220,Fiat Bravo,https://www.autotrader.co.uk/car-details/202304076069007,"£2,495",4.7 (51 reviews) milton keynes (3 miles),2007,Hatchback,100850,1.4L,150.0,Manual,Petrol,,Fiat,MK3 6JS
+221,MINI Hatch,https://www.autotrader.co.uk/car-details/202304015869715,"£3,950",milton keynes (3 miles),2007,Hatchback,123000,1.6L,,Manual,Petrol,5.0,MINI,MK3 6JS
+222,Ford KA,https://www.autotrader.co.uk/car-details/202301173340762,"£2,290",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,53000,1.3L,69.0,Manual,Petrol,,Ford,MK3 6JS
+223,Ford Fusion,https://www.autotrader.co.uk/car-details/202305067088769,"£3,495",4.9 (26 reviews) milton keynes (2 miles),2007,Hatchback,56800,1.4L,79.0,Automatic,Petrol,3.0,Ford,MK3 6JS
+224,Nissan Micra,https://www.autotrader.co.uk/car-details/202304146291592,"£2,495",4.0 (14 reviews) milton keynes (1 mile),2007,Hatchback,68300,1.4L,87.0,Manual,Petrol,,Nissan,MK3 6JS
+225,Audi A3,https://www.autotrader.co.uk/car-details/202304206503700,"£2,650",milton keynes (1 mile),2007,Hatchback,56500,1.9L,104.0,Manual,Diesel,2.0,Audi,MK3 6JS
+226,BMW 1 Series,https://www.autotrader.co.uk/car-details/202304216529216,"£2,995",4.7 (51 reviews) milton keynes (3 miles),2007,Hatchback,129350,2.0L,,Manual,Diesel,5.0,BMW,MK3 6JS
+227,Ford Fiesta,https://www.autotrader.co.uk/car-details/202303014751943,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,117000,1.6L,89.0,Manual,Diesel,,Ford,MK3 6JS
+228,KIA Sedona,https://www.autotrader.co.uk/car-details/202303285711943,"£2,499",3.8 (34 reviews) leighton buzzard (9 miles),2007,MPV,92250,2.9L,182.0,Automatic,Diesel,5.0,KIA,MK3 6JS
+229,Audi A3,https://www.autotrader.co.uk/car-details/202302244588038,"£3,495",4.7 (51 reviews) milton keynes (3 miles),2007,Hatchback,116300,1.9L,104.0,Manual,Diesel,,Audi,MK3 6JS
+230,Honda Civic,https://www.autotrader.co.uk/car-details/202303195394142,"£5,259",3.7 (61 reviews) milton keynes (7 miles),2007,Hatchback,63904,2.0L,197.0,Manual,Petrol,6.0,Honda,MK3 6JS
+231,BMW 3 Series,https://www.autotrader.co.uk/car-details/202304176367262,"£6,690",4.7 (118 reviews) milton keynes (4 miles),2007,Convertible,95858,3.0L,,Automatic,Petrol,,BMW,MK3 6JS
+232,Ford KA,https://www.autotrader.co.uk/car-details/202305026906013,"£1,509",3.7 (61 reviews) milton keynes (7 miles),2007,Hatchback,78160,1.3L,69.0,Manual,Petrol,4.0,Ford,MK3 6JS
+233,Ford Focus C-Max,https://www.autotrader.co.uk/car-details/202304015853911,"£2,500",4.7 (34 reviews) milton keynes (4 miles),2007,MPV,103000,2.0L,143.0,Automatic,Petrol,,Ford,MK3 6JS
+234,Nissan Micra,https://www.autotrader.co.uk/car-details/202210210939385,"£2,499",3.8 (34 reviews) leighton buzzard (9 miles),2007,Hatchback,36400,1.2L,79.0,Manual,Petrol,,Nissan,MK3 6JS
+235,Volkswagen Polo,https://www.autotrader.co.uk/car-details/202302204454484,"£2,495",4.7 (51 reviews) milton keynes (3 miles),2007,Hatchback,123923,1.4L,79.0,Manual,Petrol,5.0,Volkswagen,MK3 6JS
+236,Chevrolet Matiz,https://www.autotrader.co.uk/car-details/202303125161082,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,34000,1.0L,64.0,Manual,Petrol,,Chevrolet,MK3 6JS
+237,Suzuki Swift,https://www.autotrader.co.uk/car-details/202303235550029,"£1,799",3.8 (34 reviews) leighton buzzard (9 miles),2007,Hatchback,93540,1.3L,91.0,Manual,Petrol,,Suzuki,MK3 6JS
+238,Ford Focus C-Max,https://www.autotrader.co.uk/car-details/202304166334576,"£2,999",4.9 (32 reviews) milton keynes (5 miles),2007,MPV,54902,1.6L,99.0,Manual,Petrol,,Ford,MK3 6JS
+239,Ford KA,https://www.autotrader.co.uk/car-details/202211221900011,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,41000,1.3L,69.0,Manual,Petrol,,Ford,MK3 6JS
+240,Ford Fiesta,https://www.autotrader.co.uk/car-details/202303305792004,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2007,Hatchback,94000,,74.0,Manual,Petrol,,Ford,MK3 6JS
+241,Subaru Impreza,https://www.autotrader.co.uk/car-details/202301022893086,"£8,500",milton keynes (3 miles),2007,Saloon,76446,2.5L,227.0,Manual,Petrol,3.0,Subaru,MK3 6JS
+242,Land Rover Freelander 2,https://www.autotrader.co.uk/car-details/202301193412943,"£5,490",4.6 (298 reviews) milton keynes (6 miles),2007,SUV,108000,2.2L,,Automatic,Diesel,,Land,MK3 6JS
+243,MINI Convertible,https://www.autotrader.co.uk/car-details/202305026912222,"£3,975",milton keynes (5 miles),2007,Convertible,88890,1.6L,,Manual,Petrol,8.0,MINI,MK3 6JS
+244,Land Rover Range Rover Sport,https://www.autotrader.co.uk/car-details/202305077106814,"£4,500",bedford (8 miles),2007,SUV,122000,3.6L,272.0,Automatic,Diesel,5.0,Land,MK3 6JS
+245,Peugeot 207,https://www.autotrader.co.uk/car-details/202304266700460,"£3,695",milton keynes (3 miles),2007,Hatchback,60473,1.6L,120.0,Automatic,Petrol,,Peugeot,MK3 6JS
+246,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202209209927455,"£9,995",5.0 (121 reviews) milton keynes (4 miles),2007,Hatchback,136000,2.0L,227.0,Manual,Petrol,,Volkswagen,MK3 6JS
+247,BMW 6 Series,https://www.autotrader.co.uk/car-details/202305026921803,"£5,995",milton keynes (5 miles),2007,Convertible,121671,3.0L,,Automatic,Petrol,5.0,BMW,MK3 6JS
+248,Toyota Land Cruiser,https://www.autotrader.co.uk/car-details/202304025888515,"£8,999",4.1 (21 reviews) leighton buzzard (8 miles),2007,SUV,158000,3.0L,173.0,Automatic,Diesel,,Toyota,MK3 6JS
+249,Toyota Land Cruiser,https://www.autotrader.co.uk/car-details/202304196445750,"£8,995",milton keynes (6 miles),2007,SUV,115693,3.0L,161.0,Automatic,Diesel,,Toyota,MK3 6JS
+250,BMW 3 SERIES,https://www.autotrader.co.uk/car-details/202305036949494,"£7,995",4.7 (18 reviews) newport pagnell (6 miles),2007,Convertible,62000,3.0L,215.0,Automatic,Petrol,,BMW,MK3 6JS
+251,Peugeot 207,https://www.autotrader.co.uk/car-details/202304216541216,"£1,990",5.0 (7 reviews) milton keynes (1 mile),2007,Hatchback,75864,1.4L,75.0,Manual,Petrol,,Peugeot,MK3 6JS
+252,Ford Focus,https://www.autotrader.co.uk/car-details/202303275677831,"£1,499",3.2 (13 reviews) leighton buzzard (9 miles),2008,Estate,107200,1.8L,113.0,Manual,Diesel,4.0,Ford,MK3 6JS
+253,Jaguar X-Type,https://www.autotrader.co.uk/car-details/202304176368125,"£2,990",4.6 (298 reviews) milton keynes (6 miles),2008,Saloon,77000,2.0L,128.0,Manual,Diesel,,Jaguar,MK3 6JS
+254,BMW 3 Series,https://www.autotrader.co.uk/car-details/202304266708238,"£3,800",4.9 (28 reviews) leighton buzzard (9 miles),2008,Coupe,115700,2.0L,,Manual,Diesel,4.0,BMW,MK3 6JS
+255,Citroen C2,https://www.autotrader.co.uk/car-details/202304206485509,"£2,190",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,72000,1.4L,,Manual,Petrol,,Citroen,MK3 6JS
+256,Renault Megane,https://www.autotrader.co.uk/car-details/202304286776079,"£1,500",4.9 (10 reviews) milton keynes (5 miles),2008,Hatchback,89961,,,Manual,Petrol,,Renault,MK3 6JS
+257,Suzuki Swift,https://www.autotrader.co.uk/car-details/202304286771042,"£1,999",4.9 (10 reviews) milton keynes (5 miles),2008,Hatchback,98150,1.5L,101.0,Manual,Petrol,7.0,Suzuki,MK3 6JS
+258,BMW 1 SERIES,https://www.autotrader.co.uk/car-details/202304126218653,"£3,899",4.3 (12 reviews) leighton buzzard (9 miles),2008,Hatchback,84800,2.0L,141.0,Manual,Diesel,,BMW,MK3 6JS
+259,SKODA Roomster,https://www.autotrader.co.uk/car-details/202304106145832,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2008,MPV,113000,1.9L,105.0,Manual,Diesel,,SKODA,MK3 6JS
+260,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202202042141115,"£1,750",3.8 (34 reviews) leighton buzzard (9 miles),2008,Hatchback,117411,1.9L,148.0,Manual,Diesel,4.0,Vauxhall,MK3 6JS
+261,Toyota Yaris,https://www.autotrader.co.uk/car-details/202304055986071,"£2,499",4.1 (21 reviews) leighton buzzard (8 miles),2008,Hatchback,111000,1.3L,85.0,Manual,Petrol,,Toyota,MK3 6JS
+262,MINI Clubman,https://www.autotrader.co.uk/car-details/202304156316524,"£1,995",4.4 (13 reviews) leighton buzzard (9 miles),2008,Estate,139042,1.6L,,Manual,Petrol,5.0,MINI,MK3 6JS
+263,Ford Fiesta,https://www.autotrader.co.uk/car-details/202305047020344,"£2,000",4.1 (44 reviews) milton keynes (1 mile),2008,Hatchback,86050,,74.0,Manual,Petrol,4.0,Ford,MK3 6JS
+264,Daihatsu Sirion,https://www.autotrader.co.uk/car-details/202303205435286,"£2,990",4.8 (116 reviews) bedford (7 miles),2008,Hatchback,83000,1.5L,102.0,Manual,Petrol,,Daihatsu,MK3 6JS
+265,Ford Fiesta,https://www.autotrader.co.uk/car-details/202210130692368,"£2,150",4.9 (28 reviews) leighton buzzard (9 miles),2008,Hatchback,100025,,74.0,Manual,Petrol,2.0,Ford,MK3 6JS
+266,MINI Convertible,https://www.autotrader.co.uk/car-details/202304146288216,"£4,490",4.6 (298 reviews) milton keynes (6 miles),2008,Convertible,50000,1.6L,,Manual,Petrol,,MINI,MK3 6JS
+267,Honda Civic,https://www.autotrader.co.uk/car-details/202303165314377,"£3,490",4.8 (116 reviews) bedford (7 miles),2008,Hatchback,84000,1.8L,138.0,Manual,Petrol,,Honda,MK3 6JS
+268,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202304206490748,"£2,500",4.7 (51 reviews) milton keynes (3 miles),2008,Hatchback,99650,1.8L,138.0,Manual,Petrol,4.0,Vauxhall,MK3 6JS
+269,Ford Fiesta,https://www.autotrader.co.uk/car-details/202304306841920,£995,bedford (9 miles),2008,Hatchback,95958,,74.0,Manual,Petrol,6.0,Ford,MK3 6JS
+270,Ford Focus,https://www.autotrader.co.uk/car-details/202303235540798,"£2,995",4.7 (51 reviews) milton keynes (3 miles),2008,Hatchback,61600,1.8L,113.0,Manual,Diesel,4.0,Ford,MK3 6JS
+271,Renault Twingo,https://www.autotrader.co.uk/car-details/202304136250442,"£2,990",4.8 (116 reviews) bedford (7 miles),2008,Hatchback,80000,1.2L,,Manual,Petrol,,Renault,MK3 6JS
+272,Volvo V50,https://www.autotrader.co.uk/car-details/202303215469629,"£2,500",4.0 (47 reviews) milton keynes (1 mile),2008,Estate,152730,2.0L,,Manual,Diesel,,Volvo,MK3 6JS
+273,Vauxhall Vectra,https://www.autotrader.co.uk/car-details/202304015866833,"£1,990",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,101000,1.8L,138.0,Manual,Petrol,,Vauxhall,MK3 6JS
+274,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202303285699267,"£1,990",4.7 (118 reviews) milton keynes (4 miles),2008,Hatchback,93316,1.6L,113.0,Manual,Petrol,5.0,Vauxhall,MK3 6JS
+275,Mitsubishi Colt,https://www.autotrader.co.uk/car-details/202304266702693,"£3,190",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,61000,1.5L,94.0,Automatic,Diesel,,Mitsubishi,MK3 6JS
+276,Suzuki SX4,https://www.autotrader.co.uk/car-details/202304256639377,"£2,790",4.8 (116 reviews) bedford (7 miles),2008,SUV,81000,1.6L,,Manual,Petrol,,Suzuki,MK3 6JS
+277,Ford Fusion,https://www.autotrader.co.uk/car-details/202301193406969,"£2,190",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,117000,1.4L,79.0,Manual,Petrol,,Ford,MK3 6JS
+278,Ford C-Max,https://www.autotrader.co.uk/car-details/202304276742406,"£2,500",4.0 (47 reviews) milton keynes (1 mile),2008,MPV,81609,1.6L,99.0,Manual,Petrol,,Ford,MK3 6JS
+279,Toyota Avensis,https://www.autotrader.co.uk/car-details/202302244609638,"£3,500",4.9 (32 reviews) milton keynes (5 miles),2008,Hatchback,81354,2.0L,125.0,Manual,Diesel,,Toyota,MK3 6JS
+280,Mazda6,https://www.autotrader.co.uk/car-details/202303135183323,"£1,850",3.8 (34 reviews) leighton buzzard (9 miles),2008,Hatchback,118600,2.0L,145.0,Manual,Petrol,3.0,Mazda6,MK3 6JS
+281,Citroen C3,https://www.autotrader.co.uk/car-details/202304266687812,"£3,290",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,85000,1.6L,107.0,Automatic,Petrol,,Citroen,MK3 6JS
+282,Volkswagen EOS,https://www.autotrader.co.uk/car-details/202303295749981,"£4,490",4.8 (116 reviews) bedford (7 miles),2008,Convertible,83319,2.0L,,Automatic,Diesel,,Volkswagen,MK3 6JS
+283,Ford Focus Cc,https://www.autotrader.co.uk/car-details/202304146280985,"£2,990",4.8 (116 reviews) bedford (7 miles),2008,Convertible,77000,2.0L,143.0,Manual,Petrol,,Ford,MK3 6JS
+284,Nissan Qashqai,https://www.autotrader.co.uk/car-details/202304086092089,"£2,995",4.7 (51 reviews) milton keynes (3 miles),2008,Hatchback,105500,1.6L,113.0,Manual,Petrol,3.0,Nissan,MK3 6JS
+285,BMW Z4,https://www.autotrader.co.uk/car-details/202303085027693,"£3,559",3.7 (61 reviews) milton keynes (7 miles),2008,Convertible,86000,2.0L,,Manual,Petrol,7.0,BMW,MK3 6JS
+286,SKODA Fabia,https://www.autotrader.co.uk/car-details/202303064958465,"£1,995",4.5 (15 reviews) milton keynes (5 miles),2008,Hatchback,114000,1.4L,80.0,Manual,Diesel,5.0,SKODA,MK3 6JS
+287,Vauxhall Zafira,https://www.autotrader.co.uk/car-details/202302224520868,"£3,490",4.8 (116 reviews) bedford (7 miles),2008,MPV,56000,1.8L,,Manual,Petrol,,Vauxhall,MK3 6JS
+288,Mitsubishi Lancer,https://www.autotrader.co.uk/car-details/202301123194622,"£3,790",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,59000,1.8L,,Manual,Petrol,,Mitsubishi,MK3 6JS
+289,Renault Modus,https://www.autotrader.co.uk/car-details/202304015866547,"£2,390",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,85000,1.2L,100.0,Manual,Petrol,,Renault,MK3 6JS
+290,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202303095066281,"£2,500",5.0 (1 review) milton keynes (4 miles),2008,Hatchback,89500,1.6L,113.0,Manual,Petrol,2.0,Vauxhall,MK3 6JS
+291,Suzuki Swift,https://www.autotrader.co.uk/car-details/202304035934242,"£3,000",4.0 (47 reviews) milton keynes (1 mile),2008,Hatchback,56201,1.5L,101.0,Manual,Petrol,3.0,Suzuki,MK3 6JS
+292,Nissan Note,https://www.autotrader.co.uk/car-details/202303225515898,"£2,490",4.8 (116 reviews) bedford (7 miles),2008,Hatchback,93000,1.4L,,Manual,Petrol,,Nissan,MK3 6JS
+293,MINI Clubman,https://www.autotrader.co.uk/car-details/202302234562413,"£5,990",4.6 (298 reviews) milton keynes (6 miles),2008,Estate,80000,1.6L,,Automatic,Diesel,,MINI,MK3 6JS
+294,Mitsubishi Outlander,https://www.autotrader.co.uk/car-details/202304045954110,"£3,995",4.7 (51 reviews) milton keynes (3 miles),2008,SUV,97850,2.0L,,Manual,Diesel,2.0,Mitsubishi,MK3 6JS
+295,BMW 1 Series,https://www.autotrader.co.uk/car-details/202303044893251,"£4,790",4.6 (298 reviews) milton keynes (6 miles),2008,Coupe,88000,2.0L,,Manual,Diesel,,BMW,MK3 6JS
+296,Volkswagen FOX,https://www.autotrader.co.uk/car-details/202304256648226,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,88000,1.2L,,Manual,Petrol,,Volkswagen,MK3 6JS
+297,Toyota Yaris,https://www.autotrader.co.uk/car-details/202305036973965,"£4,995",4.0 (14 reviews) milton keynes (1 mile),2008,Hatchback,57585,1.3L,86.0,Automatic,Petrol,,Toyota,MK3 6JS
+298,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202303115131229,"£1,999",3.8 (34 reviews) leighton buzzard (9 miles),2008,Hatchback,102400,1.4L,89.0,Manual,Petrol,2.0,Vauxhall,MK3 6JS
+299,Alfa Romeo GT,https://www.autotrader.co.uk/car-details/202211091517204,"£4,000",4.7 (18 reviews) newport pagnell (6 miles),2008,Coupe,83000,2.0L,165.0,Manual,Petrol,2.0,Alfa,MK3 6JS
+300,Audi A6 Saloon,https://www.autotrader.co.uk/car-details/202303105103108,"£2,499",3.8 (34 reviews) leighton buzzard (9 miles),2008,Saloon,150000,2.0L,138.0,Automatic,Diesel,3.0,Audi,MK3 6JS
+301,KIA Ceed,https://www.autotrader.co.uk/car-details/202304276749210,"£3,290",4.8 (116 reviews) bedford (7 miles),2008,Estate,72000,1.6L,120.0,Manual,Petrol,,KIA,MK3 6JS
+302,Ford Fusion,https://www.autotrader.co.uk/car-details/202301233529092,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,105000,1.6L,99.0,Manual,Petrol,,Ford,MK3 6JS
+303,Ford Fiesta,https://www.autotrader.co.uk/car-details/202302094105512,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,96000,1.4L,67.0,Manual,Diesel,,Ford,MK3 6JS
+304,Mazda2,https://www.autotrader.co.uk/car-details/202304186428011,"£2,100",4.9 (10 reviews) milton keynes (5 miles),2008,Hatchback,81759,1.3L,,Manual,Petrol,8.0,Mazda2,MK3 6JS
+305,Mercedes-Benz CLK,https://www.autotrader.co.uk/car-details/202301263638546,"£2,989",4.9 (63 reviews) buckingham (8 miles),2008,Coupe,102102,2.1L,150.0,Automatic,Diesel,,Mercedes-Benz,MK3 6JS
+306,Volkswagen Touareg,https://www.autotrader.co.uk/car-details/202201121259357,"£5,500",4.1 (44 reviews) milton keynes (1 mile),2008,SUV,82150,2.5L,172.0,Automatic,Diesel,3.0,Volkswagen,MK3 6JS
+307,Ford Mondeo,https://www.autotrader.co.uk/car-details/202303115135825,"£3,990",4.8 (116 reviews) bedford (7 miles),2008,Hatchback,66000,2.0L,143.0,Manual,Petrol,,Ford,MK3 6JS
+308,Mercedes-Benz A Class,https://www.autotrader.co.uk/car-details/202302094106258,"£2,190",4.8 (116 reviews) bedford (7 miles),2008,Hatchback,117000,1.5L,95.0,Manual,Petrol,,Mercedes-Benz,MK3 6JS
+309,BMW 3 Series,https://www.autotrader.co.uk/car-details/202304216529628,"£6,199",4.1 (21 reviews) leighton buzzard (8 miles),2008,Convertible,72000,2.0L,,Manual,Petrol,,BMW,MK3 6JS
+310,BMW 3 Series,https://www.autotrader.co.uk/car-details/202303044900224,"£4,809",3.7 (61 reviews) milton keynes (7 miles),2008,Saloon,102203,3.0L,,Automatic,Petrol,,BMW,MK3 6JS
+311,Ford Fiesta,https://www.autotrader.co.uk/car-details/202304136240876,"£2,390",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,99000,1.4L,67.0,Manual,Diesel,,Ford,MK3 6JS
+312,Renault Megane,https://www.autotrader.co.uk/car-details/202302074031807,"£2,890",4.8 (116 reviews) bedford (7 miles),2008,Estate,86000,1.9L,130.0,Manual,Diesel,,Renault,MK3 6JS
+313,KIA Proceed,https://www.autotrader.co.uk/car-details/202303195395531,"£1,650",4.7 (34 reviews) milton keynes (4 miles),2008,Hatchback,127000,1.6L,124.0,Manual,Petrol,,KIA,MK3 6JS
+314,Renault Megane,https://www.autotrader.co.uk/car-details/202301032907347,"£1,995",4.7 (51 reviews) milton keynes (3 miles),2008,Hatchback,91300,1.6L,111.0,Manual,Petrol,3.0,Renault,MK3 6JS
+315,Ford Focus,https://www.autotrader.co.uk/car-details/202303205435566,"£2,495",4.7 (51 reviews) milton keynes (3 miles),2008,Hatchback,109900,1.8L,113.0,Manual,Diesel,,Ford,MK3 6JS
+316,Mazda2,https://www.autotrader.co.uk/car-details/202304226569414,"£2,000",4.9 (10 reviews) milton keynes (5 miles),2008,Hatchback,102610,1.4L,,Manual,Diesel,3.0,Mazda2,MK3 6JS
+317,Renault Clio,https://www.autotrader.co.uk/car-details/202304146293636,"£2,000",4.1 (44 reviews) milton keynes (1 mile),2008,Hatchback,58222,1.2L,75.0,Manual,Petrol,2.0,Renault,MK3 6JS
+318,Ford Fiesta,https://www.autotrader.co.uk/car-details/202302043941769,"£2,000",4.7 (34 reviews) milton keynes (4 miles),2008,Hatchback,99000,1.4L,79.0,Manual,Petrol,,Ford,MK3 6JS
+319,Vauxhall Vectra,https://www.autotrader.co.uk/car-details/202303014756691,"£1,450",3.8 (34 reviews) leighton buzzard (9 miles),2008,Estate,149980,1.8L,138.0,Manual,Petrol,6.0,Vauxhall,MK3 6JS
+320,Volkswagen EOS,https://www.autotrader.co.uk/car-details/202303315824314,"£5,995",4.7 (18 reviews) newport pagnell (6 miles),2008,Convertible,79000,2.0L,197.0,Automatic,Petrol,,Volkswagen,MK3 6JS
+321,Land Rover Freelander 2,https://www.autotrader.co.uk/car-details/202303305788883,"£5,490",4.6 (298 reviews) milton keynes (6 miles),2008,SUV,106000,2.2L,,Automatic,Diesel,,Land,MK3 6JS
+322,Honda Civic,https://www.autotrader.co.uk/car-details/202305057050586,"£1,999",5.0 (2 reviews) leighton buzzard (9 miles),2008,Hatchback,125807,2.2L,138.0,Manual,Diesel,,Honda,MK3 6JS
+323,Toyota Auris,https://www.autotrader.co.uk/car-details/202212212690741,"£2,495",4.7 (51 reviews) milton keynes (3 miles),2008,Hatchback,115800,2.0L,126.0,Manual,Diesel,,Toyota,MK3 6JS
+324,BMW 3 Series,https://www.autotrader.co.uk/car-details/202207318329029,"£3,490",milton keynes (3 miles),2008,Coupe,106600,2.0L,,Manual,Petrol,5.0,BMW,MK3 6JS
+325,KIA Sportage,https://www.autotrader.co.uk/car-details/202303105099195,"£2,999",3.8 (34 reviews) leighton buzzard (9 miles),2008,SUV,100220,2.0L,,Automatic,Petrol,4.0,KIA,MK3 6JS
+326,Ford Focus,https://www.autotrader.co.uk/car-details/202304266677372,"£2,995",4.7 (18 reviews) newport pagnell (6 miles),2008,Hatchback,129000,1.8L,125.0,Manual,Petrol,,Ford,MK3 6JS
+327,Land Rover Range Rover Sport,https://www.autotrader.co.uk/car-details/202303044905696,"£7,500",milton keynes (4 miles),2008,SUV,117100,3.6L,272.0,Automatic,Diesel,5.0,Land,MK3 6JS
+328,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202302214495174,"£2,390",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,113000,1.6L,113.0,Manual,Petrol,,Vauxhall,MK3 6JS
+329,Mercedes-Benz C Class,https://www.autotrader.co.uk/car-details/202302033891233,"£3,990",4.8 (116 reviews) bedford (7 miles),2008,Coupe,81000,2.1L,143.0,Automatic,Diesel,,Mercedes-Benz,MK3 6JS
+330,Honda Cr-V,https://www.autotrader.co.uk/car-details/202305057056717,"£2,995",milton keynes (4 miles),2008,SUV,114307,2.2L,138.0,Manual,Diesel,3.0,Honda,MK3 6JS
+331,Ford Fusion,https://www.autotrader.co.uk/car-details/202301063003893,"£3,495",4.7 (51 reviews) milton keynes (3 miles),2008,Hatchback,86650,1.6L,99.0,Automatic,Petrol,4.0,Ford,MK3 6JS
+332,BMW 1 SERIES,https://www.autotrader.co.uk/car-details/202304226561051,"£2,999",4.8 (71 reviews) leighton buzzard (8 miles),2008,Hatchback,115256,2.0L,141.0,Manual,Diesel,,BMW,MK3 6JS
+333,Ford Fiesta,https://www.autotrader.co.uk/car-details/202304096117036,"£2,990",4.6 (298 reviews) milton keynes (6 miles),2008,Hatchback,85000,,81.0,Manual,Petrol,,Ford,MK3 6JS
+334,Land Rover Freelander 2,https://www.autotrader.co.uk/car-details/202207207958970,"£3,990",4.7 (118 reviews) milton keynes (4 miles),2008,SUV,125260,2.2L,,Manual,Diesel,4.0,Land,MK3 6JS
+335,Isuzu Rodeo,https://www.autotrader.co.uk/car-details/202301303737947,"£6,595",milton keynes (2 miles),2008,Pickup,98000,2.5L,134.0,Manual,Diesel,3.0,Isuzu,MK3 6JS
+336,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202304045943417,"£5,350",milton keynes (6 miles),2008,Hatchback,90168,,,Automatic,Petrol,2.0,Volkswagen,MK3 6JS
+337,Mercedes-Benz E Class,https://www.autotrader.co.uk/car-details/202303285723974,"£2,899",milton keynes (6 miles),2008,Saloon,82557,2.1L,170.0,Automatic,Diesel,,Mercedes-Benz,MK3 6JS
+338,Volkswagen Scirocco,https://www.autotrader.co.uk/car-details/202304286772304,"£5,098",4.3 (12 reviews) leighton buzzard (9 miles),2008,Hatchback,123000,2.0L,200.0,Automatic,Petrol,,Volkswagen,MK3 6JS
+339,Hyundai i10,https://www.autotrader.co.uk/car-details/202212152538730,"£2,250",3.8 (34 reviews) leighton buzzard (9 miles),2008,Hatchback,95850,1.2L,,Manual,Petrol,3.0,Hyundai,MK3 6JS
+340,Nissan Qashqai,https://www.autotrader.co.uk/car-details/202305036962792,"£4,295",4.9 (26 reviews) milton keynes (2 miles),2008,Hatchback,81600,2.0L,139.0,Automatic,Petrol,7.0,Nissan,MK3 6JS
+341,Ford Fiesta,https://www.autotrader.co.uk/car-details/202304226569734,"£2,100",4.9 (10 reviews) milton keynes (5 miles),2008,Hatchback,78600,,74.0,Manual,Petrol,3.0,Ford,MK3 6JS
+342,BMW 3 Series,https://www.autotrader.co.uk/car-details/202206116698715,"£4,500",bedford (7 miles),2008,Estate,184000,3.0L,,Manual,Diesel,,BMW,MK3 6JS
+343,Mercedes-Benz GL Class,https://www.autotrader.co.uk/car-details/202210070502405,"£6,999",,2008,SUV,90000,4.0L,,Automatic,Diesel,,Mercedes-Benz,MK3 6JS
+344,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202305077105851,"£3,890",milton keynes (3 miles),2008,Hatchback,64000,1.4L,89.0,Automatic,Petrol,4.0,Vauxhall,MK3 6JS
+345,Mercedes-Benz S Class,https://www.autotrader.co.uk/car-details/202303085044555,"£5,995",4.9 (32 reviews) milton keynes (5 miles),2008,Saloon,102000,3.0L,228.0,Automatic,Diesel,4.0,Mercedes-Benz,MK3 6JS
+346,Mazda MX-5,https://www.autotrader.co.uk/car-details/202305047010226,"£3,500",milton keynes (7 miles),2008,Convertible,103500,1.8L,,Manual,Petrol,4.0,Mazda,MK3 6JS
+347,Audi TTS,https://www.autotrader.co.uk/car-details/202205316346475,"£8,760",milton keynes (3 miles),2008,Coupe,120000,2.0L,,Manual,Petrol,,Audi,MK3 6JS
+348,Lexus GS 450h,https://www.autotrader.co.uk/car-details/202304246627256,"£4,399",milton keynes (4 miles),2008,Saloon,169000,3.5L,,Automatic,Petrol Hybrid,3.0,Lexus,MK3 6JS
+349,Toyota Aygo,https://www.autotrader.co.uk/car-details/202302254622652,"£4,995",4.9 (32 reviews) milton keynes (5 miles),2008,Hatchback,96729,1.0L,67.0,Automatic,Petrol,3.0,Toyota,MK3 6JS
+350,Honda Jazz,https://www.autotrader.co.uk/car-details/202301283699278,"£4,999",3.8 (34 reviews) leighton buzzard (9 miles),2008,Hatchback,38300,1.4L,82.0,Automatic,Petrol,3.0,Honda,MK3 6JS
+351,Toyota Estima,https://www.autotrader.co.uk/car-details/202210180850232,"£7,999",4.8 (71 reviews) leighton buzzard (8 miles),2008,MPV,69616,2.4L,,Automatic,,,Toyota,MK3 6JS
+352,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202303075000068,"£7,999",milton keynes (10 miles),2008,Hatchback,109000,3.2L,247.0,Manual,Petrol,,Volkswagen,MK3 6JS
+353,Peugeot 207 SW,https://www.autotrader.co.uk/car-details/202304206489729,"£2,999",4.6 (34 reviews) milton keynes (7 miles),2008,Estate,67590,1.6L,120.0,Automatic,Petrol,2.0,Peugeot,MK3 6JS
+354,SKODA Fabia,https://www.autotrader.co.uk/car-details/202304256649663,"£3,750",4.9 (32 reviews) milton keynes (5 miles),2008,Hatchback,64756,1.2L,70.0,Manual,Petrol,6.0,SKODA,MK3 6JS
+355,Dodge Caliber,https://www.autotrader.co.uk/car-details/202303105116065,"£3,250",4.6 (34 reviews) milton keynes (7 miles),2008,Hatchback,61011,2.0L,154.0,Automatic,Petrol,3.0,Dodge,MK3 6JS
+356,Hyundai Santa Fe,https://www.autotrader.co.uk/car-details/202202112437143,"£4,690",4.7 (118 reviews) milton keynes (4 miles),2008,SUV,104923,2.2L,,Automatic,Diesel,3.0,Hyundai,MK3 6JS
+357,Mercedes-Benz E Class,https://www.autotrader.co.uk/car-details/202207087608524,"£4,000",milton keynes (3 miles),2008,Saloon,187150,2.1L,170.0,Automatic,Diesel,5.0,Mercedes-Benz,MK3 6JS
+358,Audi TT,https://www.autotrader.co.uk/car-details/202305026923833,"£4,875",milton keynes (2 miles),2008,Coupe,97842,,,Manual,Petrol,2.0,Audi,MK3 6JS
+359,Honda Jazz,https://www.autotrader.co.uk/car-details/202210301219640,"£4,500",5.0 (30 reviews) leighton buzzard (9 miles),2008,Hatchback,76524,1.4L,82.0,Automatic,Petrol,,Honda,MK3 6JS
+360,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202304296812628,"£1,490",4.6 (298 reviews) milton keynes (6 miles),2009,Hatchback,64000,1.4L,89.0,Manual,Petrol,,Vauxhall,MK3 6JS
+361,Peugeot 207,https://www.autotrader.co.uk/car-details/202304156316502,"£1,600",4.7 (51 reviews) milton keynes (3 miles),2009,Hatchback,106150,1.4L,,Manual,Petrol,,Peugeot,MK3 6JS
+362,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202302264649097,"£2,049",3.7 (61 reviews) milton keynes (7 miles),2009,Hatchback,51000,1.0L,59.0,Manual,Petrol,4.0,Vauxhall,MK3 6JS
+363,Honda Jazz,https://www.autotrader.co.uk/car-details/202304055996737,"£1,490",5.0 (21 reviews) buckingham (8 miles),2009,Hatchback,166000,1.4L,,Manual,Petrol,2.0,Honda,MK3 6JS
+364,Fiat 500,https://www.autotrader.co.uk/car-details/202302194427925,"£2,499",3.7 (61 reviews) milton keynes (7 miles),2009,Hatchback,87968,1.2L,,Manual,Petrol,4.0,Fiat,MK3 6JS
+365,BMW 3 Series,https://www.autotrader.co.uk/car-details/202305036939120,"£2,459",3.7 (61 reviews) milton keynes (7 miles),2009,Estate,146509,2.0L,,Automatic,Diesel,8.0,BMW,MK3 6JS
+366,MINI Hatch,https://www.autotrader.co.uk/car-details/202302134234823,"£1,495",milton keynes (4 miles),2009,Hatchback,119000,1.4L,,Manual,Petrol,3.0,MINI,MK3 6JS
+367,Mazda3,https://www.autotrader.co.uk/car-details/202303044889922,"£1,989",4.9 (63 reviews) buckingham (8 miles),2009,Hatchback,137000,1.6L,,Manual,Petrol,4.0,Mazda3,MK3 6JS
+368,BMW 3 Series,https://www.autotrader.co.uk/car-details/202302134216836,"£2,499",3.7 (61 reviews) milton keynes (7 miles),2009,Estate,148706,2.0L,,Manual,Diesel,3.0,BMW,MK3 6JS
+369,Renault Scenic,https://www.autotrader.co.uk/car-details/202305077106942,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2009,MPV,105000,1.6L,,Manual,Petrol,,Renault,MK3 6JS
+370,Saab 9-3,https://www.autotrader.co.uk/car-details/202211151691781,"£2,790",4.6 (298 reviews) milton keynes (6 miles),2009,Estate,120000,1.9L,,Manual,Diesel,,Saab,MK3 6JS
+371,Hyundai i30,https://www.autotrader.co.uk/car-details/202304266703591,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2009,Hatchback,95000,1.4L,,Manual,Petrol,,Hyundai,MK3 6JS
+372,Citroen C1,https://www.autotrader.co.uk/car-details/202304045958037,"£2,990",4.8 (116 reviews) bedford (7 miles),2009,Hatchback,48000,1.0L,,Manual,Petrol,,Citroen,MK3 6JS
+373,Vauxhall Insignia,https://www.autotrader.co.uk/car-details/202305046991377,"£3,390",4.6 (298 reviews) milton keynes (6 miles),2009,Estate,123000,2.0L,,Manual,Diesel,,Vauxhall,MK3 6JS
+374,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202304136261373,"£2,300",4.9 (28 reviews) leighton buzzard (9 miles),2009,Estate,126300,1.8L,138.0,Automatic,Petrol,2.0,Vauxhall,MK3 6JS
+375,Mazda3,https://www.autotrader.co.uk/car-details/202302224534492,"£3,990",4.8 (116 reviews) bedford (7 miles),2009,Hatchback,82000,1.6L,,Manual,Petrol,,Mazda3,MK3 6JS
+376,KIA RIO,https://www.autotrader.co.uk/car-details/202305036949202,"£2,390",4.6 (298 reviews) milton keynes (6 miles),2009,Hatchback,81000,1.5L,108.0,Manual,Diesel,,KIA,MK3 6JS
+377,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202304266704194,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2009,Convertible,81000,1.8L,138.0,Manual,Petrol,,Vauxhall,MK3 6JS
+378,Mercedes-Benz CLK,https://www.autotrader.co.uk/car-details/202304266687667,"£3,490",4.6 (298 reviews) milton keynes (6 miles),2009,Coupe,117000,2.1L,150.0,Automatic,Diesel,,Mercedes-Benz,MK3 6JS
+379,Honda Fr-V,https://www.autotrader.co.uk/car-details/202303255618640,"£2,749",4.9 (92 reviews) milton keynes (3 miles),2009,MPV,139366,2.2L,138.0,Manual,Diesel,3.0,Honda,MK3 6JS
+380,Volkswagen FOX,https://www.autotrader.co.uk/car-details/202303155270274,"£2,490",4.8 (116 reviews) bedford (7 miles),2009,Hatchback,66000,1.2L,,Manual,Petrol,,Volkswagen,MK3 6JS
+381,Ford Focus,https://www.autotrader.co.uk/car-details/202304136257542,"£4,999",milton keynes (10 miles),2009,Hatchback,66000,2.0L,134.0,Manual,Diesel,,Ford,MK3 6JS
+382,Mazda MX-5,https://www.autotrader.co.uk/car-details/202304276727890,"£5,299",4.9 (2465 reviews) milton keynes (1 mile),2009,Convertible,70000,1.8L,125.0,Manual,Petrol,,Mazda,MK3 6JS
+383,Ford Focus,https://www.autotrader.co.uk/car-details/202304186417569,"£2,499",milton keynes (10 miles),2009,Hatchback,83000,1.8L,123.0,Manual,Petrol,,Ford,MK3 6JS
+384,Alfa Romeo Mito,https://www.autotrader.co.uk/car-details/202305026907625,"£1,195",milton keynes (3 miles),2009,Hatchback,94000,1.4L,,Manual,Petrol,3.0,Alfa,MK3 6JS
+385,Land Rover Freelander 2,https://www.autotrader.co.uk/car-details/202303315819375,"£5,990",4.6 (298 reviews) milton keynes (6 miles),2009,SUV,122000,2.2L,,Automatic,Diesel,,Land,MK3 6JS
+386,Alfa Romeo GT,https://www.autotrader.co.uk/car-details/202305016873455,"£2,000",4.7 (34 reviews) milton keynes (4 miles),2009,Coupe,98000,1.9L,150.0,Manual,Diesel,,Alfa,MK3 6JS
+387,Hyundai i30,https://www.autotrader.co.uk/car-details/202305036949046,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2009,Hatchback,114000,1.4L,,Manual,Petrol,,Hyundai,MK3 6JS
+388,BMW 3 SERIES,https://www.autotrader.co.uk/car-details/202304196439954,"£3,899",4.3 (12 reviews) leighton buzzard (9 miles),2009,Saloon,96100,2.0L,141.0,Manual,Diesel,,BMW,MK3 6JS
+389,Fiat Bravo,https://www.autotrader.co.uk/car-details/202303135199501,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2009,Hatchback,107000,1.6L,105.0,Manual,Diesel,,Fiat,MK3 6JS
+390,Mercedes-Benz E Class,https://www.autotrader.co.uk/car-details/202304186405433,"£4,990",4.6 (298 reviews) milton keynes (6 miles),2009,Saloon,72000,2.1L,170.0,Automatic,Diesel,,Mercedes-Benz,MK3 6JS
+391,Honda Jazz,https://www.autotrader.co.uk/car-details/202302114177226,"£3,000",4.1 (44 reviews) milton keynes (1 mile),2009,Hatchback,78325,1.4L,82.0,Manual,Petrol,,Honda,MK3 6JS
+392,Ford Galaxy,https://www.autotrader.co.uk/car-details/202303305791693,"£4,290",4.6 (298 reviews) milton keynes (6 miles),2009,MPV,114000,2.0L,138.0,Manual,Diesel,,Ford,MK3 6JS
+393,BMW 5 Series,https://www.autotrader.co.uk/car-details/202302284721814,"£2,999",3.2 (13 reviews) leighton buzzard (9 miles),2009,Saloon,111900,2.0L,,Manual,Diesel,3.0,BMW,MK3 6JS
+394,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202304256646320,"£4,290",4.6 (298 reviews) milton keynes (6 miles),2009,Hatchback,52000,1.8L,138.0,Automatic,Petrol,,Vauxhall,MK3 6JS
+395,Ford Fiesta,https://www.autotrader.co.uk/car-details/202304015867552,"£3,495",milton keynes (2 miles),2009,Hatchback,77590,1.6L,118.0,Manual,Petrol,4.0,Ford,MK3 6JS
+396,BMW 3 Series,https://www.autotrader.co.uk/car-details/202302144246679,"£3,049",3.7 (61 reviews) milton keynes (7 miles),2009,Saloon,128820,2.0L,,Automatic,Diesel,4.0,BMW,MK3 6JS
+397,Peugeot 207,https://www.autotrader.co.uk/car-details/202304236587163,"£1,995",milton keynes (5 miles),2009,Hatchback,74110,1.4L,75.0,Manual,Petrol,,Peugeot,MK3 6JS
+398,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202304276741930,"£4,900",milton keynes (4 miles),2009,Hatchback,72400,1.6L,,Manual,Petrol,3.0,Volkswagen,MK3 6JS
+399,Nissan Qashqai+2,https://www.autotrader.co.uk/car-details/202305036947777,"£3,309",3.7 (61 reviews) milton keynes (7 miles),2009,SUV,112000,1.6L,113.0,Manual,Petrol,5.0,Nissan,MK3 6JS
+400,KIA RIO,https://www.autotrader.co.uk/car-details/202304066045513,"£1,599",4.7 (34 reviews) milton keynes (4 miles),2009,Hatchback,119000,1.4L,95.0,Manual,Petrol,2.0,KIA,MK3 6JS
+401,Vauxhall Insignia,https://www.autotrader.co.uk/car-details/202304106140378,"£2,500",4.7 (51 reviews) milton keynes (3 miles),2009,Hatchback,124615,2.0L,,Manual,Diesel,3.0,Vauxhall,MK3 6JS
+402,Audi A3,https://www.autotrader.co.uk/car-details/202304176365563,"£3,909",3.7 (61 reviews) milton keynes (7 miles),2009,Hatchback,99541,1.8L,,Manual,Petrol,5.0,Audi,MK3 6JS
+403,Audi A3,https://www.autotrader.co.uk/car-details/202305026907930,"£3,495",4.1 (44 reviews) milton keynes (1 mile),2009,Hatchback,99935,1.9L,,Manual,Diesel,3.0,Audi,MK3 6JS
+404,Mazda2,https://www.autotrader.co.uk/car-details/202303074989364,"£1,999",3.8 (34 reviews) leighton buzzard (9 miles),2009,Hatchback,102200,1.4L,,Manual,Diesel,5.0,Mazda2,MK3 6JS
+405,Ford Fiesta,https://www.autotrader.co.uk/car-details/202303014760929,"£2,390",milton keynes (1 mile),2009,Hatchback,73000,1.6L,89.0,Manual,Diesel,,Ford,MK3 6JS
+406,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202304086103358,"£1,500",4.1 (44 reviews) milton keynes (1 mile),2009,Hatchback,105350,1.2L,79.0,Manual,Petrol,3.0,Vauxhall,MK3 6JS
+407,Volvo V70,https://www.autotrader.co.uk/car-details/202303205415874,"£3,409",3.7 (61 reviews) milton keynes (7 miles),2009,Estate,138576,2.0L,,Manual,Diesel,3.0,Volvo,MK3 6JS
+408,Audi A3,https://www.autotrader.co.uk/car-details/202303034863963,"£2,999",3.8 (34 reviews) leighton buzzard (9 miles),2009,Hatchback,120750,1.8L,,Manual,Petrol,5.0,Audi,MK3 6JS
+409,Land Rover Freelander 2,https://www.autotrader.co.uk/car-details/202302234562620,"£3,059",3.7 (61 reviews) milton keynes (7 miles),2009,SUV,153674,2.2L,,Automatic,Diesel,4.0,Land,MK3 6JS
+410,Ford Focus,https://www.autotrader.co.uk/car-details/202301313792888,"£2,490",4.7 (118 reviews) milton keynes (4 miles),2009,Hatchback,104659,1.6L,99.0,Manual,Petrol,5.0,Ford,MK3 6JS
+411,Peugeot 107,https://www.autotrader.co.uk/car-details/202304066051441,"£2,400",4.9 (28 reviews) leighton buzzard (9 miles),2009,Hatchback,76150,1.0L,,Manual,Petrol,2.0,Peugeot,MK3 6JS
+412,Mercedes-Benz E Class,https://www.autotrader.co.uk/car-details/202210160783518,"£3,800",4.9 (28 reviews) leighton buzzard (9 miles),2009,Estate,98987,2.1L,170.0,Automatic,Diesel,4.0,Mercedes-Benz,MK3 6JS
+413,Ford Fiesta,https://www.autotrader.co.uk/car-details/202303245585841,"£3,299",4.7 (34 reviews) milton keynes (4 miles),2009,Hatchback,81000,1.4L,67.0,Manual,Diesel,,Ford,MK3 6JS
+414,Fiat 500,https://www.autotrader.co.uk/car-details/202305047000694,"£2,899",4.9 (10 reviews) milton keynes (5 miles),2009,Hatchback,82400,1.2L,,Manual,Petrol,3.0,Fiat,MK3 6JS
+415,Land Rover Discovery,https://www.autotrader.co.uk/car-details/202212212695194,"£6,649",4.2 (50 reviews) leighton buzzard (8 miles),2009,SUV,100000,2.7L,188.0,Automatic,Diesel,,Land,MK3 6JS
+416,KIA Ceed,https://www.autotrader.co.uk/car-details/202303085033040,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2009,Estate,114000,1.6L,88.0,Manual,Diesel,,KIA,MK3 6JS
+417,Citroen Xsara Picasso,https://www.autotrader.co.uk/car-details/202304216519092,"£2,800",4.0 (47 reviews) milton keynes (1 mile),2009,MPV,58691,1.6L,110.0,Manual,Petrol,,Citroen,MK3 6JS
+418,KIA Sportage,https://www.autotrader.co.uk/car-details/202211171771816,"£3,490",4.6 (298 reviews) milton keynes (6 miles),2009,SUV,90000,2.0L,138.0,Manual,Diesel,,KIA,MK3 6JS
+419,Fiat Panda,https://www.autotrader.co.uk/car-details/202302013834926,"£2,500",4.0 (47 reviews) milton keynes (1 mile),2009,Hatchback,49221,1.2L,60.0,Manual,Petrol,3.0,Fiat,MK3 6JS
+420,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202305047008740,"£2,500",4.7 (34 reviews) milton keynes (4 miles),2009,Hatchback,93000,1.6L,113.0,Manual,Petrol,,Vauxhall,MK3 6JS
+421,Honda Jazz,https://www.autotrader.co.uk/car-details/202304186391412,"£4,000",4.1 (44 reviews) milton keynes (1 mile),2009,Hatchback,90000,1.4L,82.0,Automatic,Petrol,,Honda,MK3 6JS
+422,Honda Jazz,https://www.autotrader.co.uk/car-details/202212162578273,"£4,500",4.1 (44 reviews) milton keynes (1 mile),2009,Hatchback,66550,1.4L,,Automatic,Petrol,4.0,Honda,MK3 6JS
+423,Suzuki SX4,https://www.autotrader.co.uk/car-details/202302184406232,"£1,999",4.6 (34 reviews) milton keynes (7 miles),2009,SUV,113052,1.6L,,Manual,Diesel,3.0,Suzuki,MK3 6JS
+424,Honda Civic,https://www.autotrader.co.uk/car-details/202303245574730,"£1,999",3.8 (34 reviews) leighton buzzard (9 miles),2009,Hatchback,132400,2.2L,138.0,Manual,Diesel,5.0,Honda,MK3 6JS
+425,Volvo V50,https://www.autotrader.co.uk/car-details/202211241965734,"£2,850",4.6 (34 reviews) milton keynes (7 miles),2009,Estate,111619,1.6L,,Manual,Diesel,2.0,Volvo,MK3 6JS
+426,Toyota RAV4,https://www.autotrader.co.uk/car-details/202304136254679,"£5,489",4.9 (47 reviews) buckingham (8 miles),2009,SUV,83000,2.2L,,Manual,Diesel,3.0,Toyota,MK3 6JS
+427,Hyundai i20,https://www.autotrader.co.uk/car-details/202303064948611,"£4,000",4.0 (47 reviews) milton keynes (1 mile),2009,Hatchback,27200,1.2L,,Manual,Petrol,,Hyundai,MK3 6JS
+428,BMW 6 Series,https://www.autotrader.co.uk/car-details/202304246619298,"£6,399",4.7 (34 reviews) milton keynes (4 miles),2009,Coupe,101000,3.0L,,Automatic,Diesel,,BMW,MK3 6JS
+429,SEAT Altea,https://www.autotrader.co.uk/car-details/202303145238888,"£3,190",4.7 (118 reviews) milton keynes (4 miles),2009,MPV,69571,1.6L,,Manual,Petrol,4.0,SEAT,MK3 6JS
+430,Audi A3,https://www.autotrader.co.uk/car-details/202304286772382,"£4,399",4.3 (12 reviews) leighton buzzard (9 miles),2009,Hatchback,113000,2.0L,168.0,Automatic,Diesel,,Audi,MK3 6JS
+431,BMW 1 Series,https://www.autotrader.co.uk/car-details/202304176388144,"£3,800",leighton buzzard (7 miles),2009,Hatchback,123000,2.0L,,Manual,Diesel,,BMW,MK3 6JS
+432,Ford Fiesta,https://www.autotrader.co.uk/car-details/202305016869985,"£2,900",buckingham (8 miles),2009,Hatchback,87000,1.6L,89.0,Manual,Diesel,,Ford,MK3 6JS
+433,Ford Fiesta,https://www.autotrader.co.uk/car-details/202303064935907,"£3,599",4.7 (34 reviews) milton keynes (4 miles),2009,Hatchback,94000,1.6L,118.0,Manual,Petrol,2.0,Ford,MK3 6JS
+434,Audi A5,https://www.autotrader.co.uk/car-details/202304055990362,"£5,990",4.6 (298 reviews) milton keynes (6 miles),2009,Coupe,103000,2.0L,,Manual,Diesel,,Audi,MK3 6JS
+435,Hyundai i30,https://www.autotrader.co.uk/car-details/202304076073799,"£3,490",4.8 (116 reviews) bedford (7 miles),2009,Hatchback,89000,1.4L,,Manual,Petrol,,Hyundai,MK3 6JS
+436,Volkswagen Polo,https://www.autotrader.co.uk/car-details/202303165317782,"£5,500",4.0 (47 reviews) milton keynes (1 mile),2009,Hatchback,67500,1.2L,,Manual,Petrol,,Volkswagen,MK3 6JS
+437,BMW Alpina D3,https://www.autotrader.co.uk/car-details/202302244595586,"£6,259",3.7 (61 reviews) milton keynes (7 miles),2009,Saloon,89240,2.0L,,Manual,Diesel,,BMW,MK3 6JS
+438,Chevrolet Lacetti,https://www.autotrader.co.uk/car-details/202303175361416,"£2,000",4.1 (44 reviews) milton keynes (1 mile),2009,Hatchback,53350,1.6L,108.0,Manual,Petrol,2.0,Chevrolet,MK3 6JS
+439,Audi A4,https://www.autotrader.co.uk/car-details/202303064956427,"£5,599",4.1 (21 reviews) leighton buzzard (8 miles),2009,Saloon,75000,2.0L,,Automatic,Diesel,2.0,Audi,MK3 6JS
+440,Mazda MX-5,https://www.autotrader.co.uk/car-details/202302043939223,"£5,849",4.8 (71 reviews) leighton buzzard (8 miles),2009,Convertible,73861,2.0L,158.0,Manual,Petrol,2.0,Mazda,MK3 6JS
+441,Renault Megane,https://www.autotrader.co.uk/car-details/202304196464926,"£2,340",milton keynes (2 miles),2009,Coupe,62000,1.6L,,Manual,Petrol,3.0,Renault,MK3 6JS
+442,Volkswagen Passat,https://www.autotrader.co.uk/car-details/202304156314837,"£4,500",4.1 (44 reviews) milton keynes (1 mile),2009,Saloon,81650,1.8L,,Manual,Petrol,3.0,Volkswagen,MK3 6JS
+443,BMW 5 Series,https://www.autotrader.co.uk/car-details/202212242760942,"£5,199",4.7 (34 reviews) milton keynes (4 miles),2009,Saloon,100000,2.0L,,Automatic,Diesel,,BMW,MK3 6JS
+444,Ford Focus,https://www.autotrader.co.uk/car-details/202304256657977,"£5,290",4.8 (116 reviews) bedford (7 miles),2009,Estate,81000,2.0L,143.0,Automatic,Petrol,,Ford,MK3 6JS
+445,Fiat 500,https://www.autotrader.co.uk/car-details/202304286779990,"£3,995",leighton buzzard (6 miles),2009,Hatchback,58000,1.2L,,Manual,Petrol,2.0,Fiat,MK3 6JS
+446,Ford Fiesta,https://www.autotrader.co.uk/car-details/202302043927513,"£3,000",4.0 (47 reviews) milton keynes (1 mile),2009,Hatchback,88664,,81.0,Manual,Petrol,,Ford,MK3 6JS
+447,BMW 3 Series,https://www.autotrader.co.uk/car-details/202304226546879,"£9,559",3.7 (61 reviews) milton keynes (7 miles),2009,Coupe,79800,3.0L,,Automatic,Diesel,7.0,BMW,MK3 6JS
+448,Fiat 500C,https://www.autotrader.co.uk/car-details/202303095082616,"£5,290",4.7 (118 reviews) milton keynes (4 miles),2009,Convertible,38121,1.2L,,Manual,Petrol,,Fiat,MK3 6JS
+449,Subaru Impreza,https://www.autotrader.co.uk/car-details/202303275662258,"£3,899",4.8 (71 reviews) leighton buzzard (8 miles),2009,Hatchback,84997,2.0L,150.0,Manual,Petrol,,Subaru,MK3 6JS
+450,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202303295743550,"£2,390",4.6 (298 reviews) milton keynes (6 miles),2009,Hatchback,110000,1.6L,113.0,Manual,Petrol,,Vauxhall,MK3 6JS
+451,Audi A3 Cabriolet,https://www.autotrader.co.uk/car-details/202304025886045,"£4,000",4.0 (47 reviews) milton keynes (1 mile),2009,Convertible,88810,1.9L,,Manual,Diesel,3.0,Audi,MK3 6JS
+452,Volkswagen Passat,https://www.autotrader.co.uk/car-details/202304045973365,"£4,499",3.8 (34 reviews) leighton buzzard (9 miles),2009,Estate,79700,1.8L,,Manual,Petrol,2.0,Volkswagen,MK3 6JS
+453,Audi A4,https://www.autotrader.co.uk/car-details/202303095083900,"£5,699",4.8 (71 reviews) leighton buzzard (8 miles),2009,Saloon,93751,2.0L,141.0,Manual,Diesel,,Audi,MK3 6JS
+454,KIA Picanto,https://www.autotrader.co.uk/car-details/202304276733140,"£1,975",5.0 (21 reviews) buckingham (8 miles),2009,Hatchback,91000,1.0L,60.0,Manual,Petrol,5.0,KIA,MK3 6JS
+455,Ford Focus,https://www.autotrader.co.uk/car-details/202304256647752,"£2,495",4.7 (18 reviews) newport pagnell (6 miles),2009,Hatchback,119000,1.6L,90.0,Manual,Diesel,,Ford,MK3 6JS
+456,Peugeot 207 SW,https://www.autotrader.co.uk/car-details/202212142513651,"£3,295",4.7 (51 reviews) milton keynes (3 miles),2009,Estate,102500,1.6L,,Automatic,Petrol,3.0,Peugeot,MK3 6JS
+457,Volkswagen FOX,https://www.autotrader.co.uk/car-details/202303024817796,"£2,799",4.8 (71 reviews) leighton buzzard (8 miles),2009,Hatchback,62426,1.4L,75.0,Manual,Petrol,,Volkswagen,MK3 6JS
+458,Ford Focus,https://www.autotrader.co.uk/car-details/202303165297803,"£2,500",4.7 (51 reviews) milton keynes (3 miles),2009,Hatchback,112800,1.6L,99.0,Manual,Petrol,3.0,Ford,MK3 6JS
+459,BMW 3 Series,https://www.autotrader.co.uk/car-details/202302074032267,"£3,999",4.1 (21 reviews) leighton buzzard (8 miles),2009,Saloon,112000,2.0L,,Automatic,Diesel,,BMW,MK3 6JS
+460,BMW 3 Series,https://www.autotrader.co.uk/car-details/202303205429932,"£5,699",4.1 (21 reviews) leighton buzzard (8 miles),2009,Estate,84000,2.0L,,Automatic,Petrol,,BMW,MK3 6JS
+461,Renault Clio,https://www.autotrader.co.uk/car-details/202211071459322,"£3,500",4.7 (51 reviews) milton keynes (3 miles),2009,Hatchback,48600,1.6L,,Automatic,Petrol,6.0,Renault,MK3 6JS
+462,Ford Fiesta,https://www.autotrader.co.uk/car-details/202303044896676,"£3,999",milton keynes (10 miles),2009,Hatchback,74000,,81.0,Manual,Petrol,,Ford,MK3 6JS
+463,SKODA Fabia,https://www.autotrader.co.uk/car-details/202304076074439,"£4,190",4.7 (118 reviews) milton keynes (4 miles),2009,Hatchback,47510,1.4L,80.0,Manual,Diesel,,SKODA,MK3 6JS
+464,Jaguar XF,https://www.autotrader.co.uk/car-details/202304196461581,"£5,094",4.9 (92 reviews) milton keynes (3 miles),2009,Saloon,108092,3.0L,,Automatic,Diesel,2.0,Jaguar,MK3 6JS
+465,BMW 1 Series,https://www.autotrader.co.uk/car-details/202303215478286,"£4,599",4.9 (92 reviews) milton keynes (3 miles),2009,Hatchback,77868,2.0L,,Manual,Diesel,3.0,BMW,MK3 6JS
+466,Toyota Avensis,https://www.autotrader.co.uk/car-details/202304056002941,"£8,490",3.6 (5 reviews) Collect from Milton Keynes (1 mile),2009,Estate,47316,2.0L,,Automatic,Petrol,,Toyota,MK3 6JS
+467,Nissan Micra,https://www.autotrader.co.uk/car-details/202303105116787,"£2,299",4.9 (92 reviews) milton keynes (3 miles),2009,Hatchback,95142,1.2L,79.0,Manual,Petrol,5.0,Nissan,MK3 6JS
+468,Citroen Grand C4 Picasso,https://www.autotrader.co.uk/car-details/202305057057981,"£1,995",milton keynes (4 miles),2009,MPV,133500,1.6L,,Manual,Diesel,2.0,Citroen,MK3 6JS
+469,BMW X5,https://www.autotrader.co.uk/car-details/202211151707249,"£8,900",milton keynes (2 miles),2009,SUV,120000,4.8L,,Automatic,Petrol,6.0,BMW,MK3 6JS
+470,Ford Kuga,https://www.autotrader.co.uk/car-details/202202222824853,"£4,799",4.8 (71 reviews) leighton buzzard (8 miles),2009,SUV,104391,2.0L,134.0,Manual,Diesel,,Ford,MK3 6JS
+471,KIA Picanto,https://www.autotrader.co.uk/car-details/202305057067358,"£2,800",4.9 (28 reviews) leighton buzzard (9 miles),2009,Hatchback,51250,1.0L,60.0,Manual,Petrol,3.0,KIA,MK3 6JS
+472,Audi A4,https://www.autotrader.co.uk/car-details/202212302844772,"£6,499",4.1 (21 reviews) leighton buzzard (8 miles),2009,Saloon,71000,3.0L,,Manual,Diesel,,Audi,MK3 6JS
+473,Hyundai i10,https://www.autotrader.co.uk/car-details/202304156321433,"£2,490",milton keynes (5 miles),2009,Hatchback,70844,1.2L,,Manual,Petrol,3.0,Hyundai,MK3 6JS
+474,Hyundai I30,https://www.autotrader.co.uk/car-details/202304246601284,"£2,099",4.3 (12 reviews) leighton buzzard (9 miles),2009,Hatchback,143000,1.6L,113.0,Manual,Diesel,,Hyundai,MK3 6JS
+475,Audi TT,https://www.autotrader.co.uk/car-details/202208178855913,"£8,500",4.8 (356 reviews) leighton buzzard (7 miles),2009,Convertible,37800,2.0L,170.0,Manual,Diesel,,Audi,MK3 6JS
+476,Hyundai i20,https://www.autotrader.co.uk/car-details/202303285717463,"£7,000",4.1 (44 reviews) milton keynes (1 mile),2009,Hatchback,6646,1.4L,,Automatic,Petrol,2.0,Hyundai,MK3 6JS
+477,Mercedes-Benz GL Class,https://www.autotrader.co.uk/car-details/202303215482443,"£6,500",milton keynes (5 miles),2009,SUV,161332,3.0L,,Automatic,Diesel,4.0,Mercedes-Benz,MK3 6JS
+478,BMW X5,https://www.autotrader.co.uk/car-details/202305077120459,"£5,880",leighton buzzard (7 miles),2009,SUV,118740,3.0L,,Automatic,Diesel,6.0,BMW,MK3 6JS
+479,Lexus GS 450h,https://www.autotrader.co.uk/car-details/202208018367410,"£9,800",milton keynes (1 mile),2009,Saloon,88115,3.5L,,Automatic,Petrol Hybrid,4.0,Lexus,MK3 6JS
+480,Honda Civic,https://www.autotrader.co.uk/car-details/202304126227132,"£3,995",milton keynes (5 miles),2009,Hatchback,79000,1.4L,98.0,Manual,Petrol,,Honda,MK3 6JS
+481,Toyota Yaris,https://www.autotrader.co.uk/car-details/202304296818026,"£5,500",Collect from Milton Keynes (1 mile),2009,Hatchback,58452,,,Manual,Petrol,2.0,Toyota,MK3 6JS
+482,Vauxhall Tigra,https://www.autotrader.co.uk/car-details/202305067088394,£695,milton keynes (6 miles),2009,Convertible,94000,1.4L,89.0,Manual,Petrol,7.0,Vauxhall,MK3 6JS
+483,SKODA Fabia,https://www.autotrader.co.uk/car-details/202305047019540,"£2,850",5.0 (30 reviews) leighton buzzard (9 miles),2009,Hatchback,83995,1.2L,70.0,Manual,Petrol,3.0,SKODA,MK3 6JS
+484,Citroen C3,https://www.autotrader.co.uk/car-details/202304126200558,"£1,250",5.0 (21 reviews) buckingham (8 miles),2010,Hatchback,133000,1.6L,,Manual,Diesel,2.0,Citroen,MK3 6JS
+485,Ford Focus,https://www.autotrader.co.uk/car-details/202303175342594,"£1,364",5.0 (21 reviews) buckingham (8 miles),2010,Hatchback,107000,1.6L,99.0,Manual,Petrol,2.0,Ford,MK3 6JS
+486,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202303295749400,"£2,490",4.8 (116 reviews) bedford (7 miles),2010,Hatchback,88000,1.2L,84.0,Manual,Petrol,,Vauxhall,MK3 6JS
+487,Vauxhall Insignia,https://www.autotrader.co.uk/car-details/202305047009891,"£1,800",5.0 (1 review) milton keynes (2 miles),2010,Hatchback,92444,1.8L,,Manual,Petrol,5.0,Vauxhall,MK3 6JS
+488,Renault Clio,https://www.autotrader.co.uk/car-details/202303155258004,"£1,709",3.7 (61 reviews) milton keynes (7 miles),2010,Hatchback,125676,1.2L,,Manual,Petrol,4.0,Renault,MK3 6JS
+489,BMW 1 Series,https://www.autotrader.co.uk/car-details/202303034853579,"£1,359",3.7 (61 reviews) milton keynes (7 miles),2010,Coupe,130000,2.0L,,Manual,Diesel,3.0,BMW,MK3 6JS
+490,Volkswagen Polo,https://www.autotrader.co.uk/car-details/202303165306607,"£2,999",3.8 (34 reviews) leighton buzzard (9 miles),2010,Hatchback,133700,1.2L,,Manual,Petrol,,Volkswagen,MK3 6JS
+491,Volkswagen Polo,https://www.autotrader.co.uk/car-details/202305036974472,"£3,500",4.1 (44 reviews) milton keynes (1 mile),2010,Hatchback,110500,1.2L,,Manual,Petrol,,Volkswagen,MK3 6JS
+492,Mazda2,https://www.autotrader.co.uk/car-details/202302033918075,"£2,350",4.9 (28 reviews) leighton buzzard (9 miles),2010,Hatchback,95200,1.3L,,Manual,Petrol,4.0,Mazda2,MK3 6JS
+493,Fiat 500,https://www.autotrader.co.uk/car-details/202304306853206,"£2,199",4.9 (10 reviews) milton keynes (5 miles),2010,Hatchback,130820,1.2L,,Manual,Petrol,7.0,Fiat,MK3 6JS
+494,BMW 3 Series,https://www.autotrader.co.uk/car-details/202303085018351,"£5,559",3.7 (61 reviews) milton keynes (7 miles),2010,Coupe,72814,2.0L,,Manual,Diesel,4.0,BMW,MK3 6JS
+495,Nissan Murano,https://www.autotrader.co.uk/car-details/202304236590583,"£4,999",4.9 (10 reviews) milton keynes (5 miles),2010,SUV,82740,2.5L,,Automatic,Diesel,8.0,Nissan,MK3 6JS
+496,Citroen C4 Picasso,https://www.autotrader.co.uk/car-details/202303215468271,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2010,MPV,100000,1.6L,,Manual,Diesel,,Citroen,MK3 6JS
+497,Suzuki Alto,https://www.autotrader.co.uk/car-details/202304266682025,"£2,500",4.9 (10 reviews) milton keynes (5 miles),2010,Hatchback,49107,1.0L,,Manual,Petrol,4.0,Suzuki,MK3 6JS
+498,Nissan Note,https://www.autotrader.co.uk/car-details/202303275659061,"£2,390",4.8 (116 reviews) bedford (7 miles),2010,Hatchback,100000,1.5L,,Manual,Diesel,,Nissan,MK3 6JS
+499,Peugeot 3008,https://www.autotrader.co.uk/car-details/202304076066903,"£2,500",4.7 (51 reviews) milton keynes (3 miles),2010,SUV,91350,1.6L,,Manual,Diesel,4.0,Peugeot,MK3 6JS
+500,Ford Fiesta,https://www.autotrader.co.uk/car-details/202305057035676,"£2,490",5.0 (21 reviews) buckingham (8 miles),2010,Hatchback,133000,1.6L,89.0,Manual,Diesel,3.0,Ford,MK3 6JS
+501,Honda Civic,https://www.autotrader.co.uk/car-details/202304196456172,"£4,290",4.6 (298 reviews) milton keynes (6 miles),2010,Hatchback,100000,2.2L,138.0,Manual,Diesel,,Honda,MK3 6JS
+502,Vauxhall Insignia,https://www.autotrader.co.uk/car-details/202303215467297,"£3,790",4.6 (298 reviews) milton keynes (6 miles),2010,Estate,92000,2.0L,,Manual,Diesel,,Vauxhall,MK3 6JS
+503,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202305036957717,"£1,800",4.9 (10 reviews) milton keynes (5 miles),2010,Hatchback,111610,1.2L,84.0,Manual,Petrol,2.0,Vauxhall,MK3 6JS
+504,Renault Clio,https://www.autotrader.co.uk/car-details/202211231924577,"£2,090",milton keynes (1 mile),2010,Hatchback,83000,1.2L,,Manual,Petrol,4.0,Renault,MK3 6JS
+505,Peugeot 107,https://www.autotrader.co.uk/car-details/202303165303941,"£3,490",4.8 (116 reviews) bedford (7 miles),2010,Hatchback,62000,1.0L,,Manual,Petrol,,Peugeot,MK3 6JS
+506,Fiat Punto Evo,https://www.autotrader.co.uk/car-details/202304176357307,"£2,799",4.7 (34 reviews) milton keynes (4 miles),2010,Hatchback,78000,1.4L,,Manual,Petrol,6.0,Fiat,MK3 6JS
+507,Renault Grand Modus,https://www.autotrader.co.uk/car-details/202304015865882,"£3,490",4.6 (298 reviews) milton keynes (6 miles),2010,MPV,70000,1.6L,,Automatic,Petrol,,Renault,MK3 6JS
+508,Volkswagen Polo,https://www.autotrader.co.uk/car-details/202303205432450,"£3,000",4.1 (44 reviews) milton keynes (1 mile),2010,Hatchback,102800,1.2L,,Manual,Petrol,3.0,Volkswagen,MK3 6JS
+509,BMW 1 Series,https://www.autotrader.co.uk/car-details/202305036954967,"£4,790",4.7 (118 reviews) milton keynes (4 miles),2010,Hatchback,65457,2.0L,,Manual,Diesel,3.0,BMW,MK3 6JS
+510,Volkswagen Touran,https://www.autotrader.co.uk/car-details/202303054929952,"£4,000",4.1 (44 reviews) milton keynes (1 mile),2010,MPV,92300,1.9L,103.0,Manual,Diesel,2.0,Volkswagen,MK3 6JS
+511,Volkswagen Golf Plus,https://www.autotrader.co.uk/car-details/202303275657671,"£2,995",4.7 (51 reviews) milton keynes (3 miles),2010,Hatchback,123350,1.6L,,Manual,Diesel,,Volkswagen,MK3 6JS
+512,Honda Civic,https://www.autotrader.co.uk/car-details/202304256673323,"£3,999",5.0 (2 reviews) leighton buzzard (9 miles),2010,Hatchback,82648,1.8L,138.0,Manual,Petrol,2.0,Honda,MK3 6JS
+513,Renault Scenic,https://www.autotrader.co.uk/car-details/202209099590633,"£2,090",4.6 (298 reviews) milton keynes (6 miles),2010,MPV,111000,1.5L,,Manual,Diesel,,Renault,MK3 6JS
+514,Toyota Auris,https://www.autotrader.co.uk/car-details/202304296814753,"£3,995",4.0 (14 reviews) milton keynes (1 mile),2010,Hatchback,98900,1.6L,132.0,Manual,Petrol,,Toyota,MK3 6JS
+515,Renault Clio,https://www.autotrader.co.uk/car-details/202304266717278,"£3,500",4.1 (44 reviews) milton keynes (1 mile),2010,Hatchback,62400,1.2L,,Manual,Petrol,4.0,Renault,MK3 6JS
+516,Vauxhall Meriva,https://www.autotrader.co.uk/car-details/202304106137559,"£3,490",4.8 (116 reviews) bedford (7 miles),2010,MPV,54000,1.6L,104.0,Manual,Petrol,,Vauxhall,MK3 6JS
+517,Volkswagen Golf,https://www.autotrader.co.uk/car-details/202303305802517,"£3,550",4.9 (28 reviews) leighton buzzard (9 miles),2010,Hatchback,148000,2.0L,,Manual,Diesel,5.0,Volkswagen,MK3 6JS
+518,Toyota RAV4,https://www.autotrader.co.uk/car-details/202304266691438,"£3,499",4.1 (21 reviews) leighton buzzard (8 miles),2010,SUV,120000,2.2L,,Manual,Diesel,,Toyota,MK3 6JS
+519,Audi A3,https://www.autotrader.co.uk/car-details/202304116190503,"£3,499",5.0 (2 reviews) leighton buzzard (9 miles),2010,Hatchback,115502,1.6L,,Manual,Petrol,2.0,Audi,MK3 6JS
+520,Ford S-Max,https://www.autotrader.co.uk/car-details/202303085033164,"£4,490",4.6 (298 reviews) milton keynes (6 miles),2010,MPV,107000,2.0L,,Manual,Diesel,,Ford,MK3 6JS
+521,Renault Clio,https://www.autotrader.co.uk/car-details/202212122456787,"£2,650",4.4 (13 reviews) leighton buzzard (9 miles),2010,Hatchback,74210,1.2L,,Manual,Petrol,6.0,Renault,MK3 6JS
+522,Renault Clio,https://www.autotrader.co.uk/car-details/202211211866652,"£2,495",4.7 (51 reviews) milton keynes (3 miles),2010,Hatchback,84500,1.2L,,Manual,Petrol,3.0,Renault,MK3 6JS
+523,Volkswagen Golf Plus,https://www.autotrader.co.uk/car-details/202303305789563,"£6,995",4.7 (18 reviews) newport pagnell (6 miles),2010,Hatchback,61000,1.6L,103.0,Automatic,Diesel,,Volkswagen,MK3 6JS
+524,Nissan Qashqai,https://www.autotrader.co.uk/car-details/202304216519837,"£3,495",4.7 (51 reviews) milton keynes (3 miles),2010,SUV,113800,1.5L,,Manual,Diesel,3.0,Nissan,MK3 6JS
+525,Ford KA,https://www.autotrader.co.uk/car-details/202210271138869,"£3,500",4.1 (44 reviews) milton keynes (1 mile),2010,Hatchback,53465,1.2L,,Manual,Petrol,,Ford,MK3 6JS
+526,BMW 3 Series,https://www.autotrader.co.uk/car-details/202301063010542,"£6,259",3.7 (61 reviews) milton keynes (7 miles),2010,Convertible,94000,3.0L,,Automatic,Petrol,6.0,BMW,MK3 6JS
+527,BMW 1 Series,https://www.autotrader.co.uk/car-details/202304216530097,"£3,250",leighton buzzard (7 miles),2010,Hatchback,73000,2.0L,,Manual,Petrol,,BMW,MK3 6JS
+528,Peugeot 207 SW,https://www.autotrader.co.uk/car-details/202304055989344,"£3,290",4.6 (298 reviews) milton keynes (6 miles),2010,Estate,92000,1.6L,,Manual,Diesel,,Peugeot,MK3 6JS
+529,Ford KA,https://www.autotrader.co.uk/car-details/202304286789533,"£4,150",4.9 (138 reviews) leighton buzzard (8 miles),2010,Hatchback,26439,1.2L,,Manual,Petrol,2.0,Ford,MK3 6JS
+530,BMW 5 Series,https://www.autotrader.co.uk/car-details/202304216530574,"£8,950",4.5 (15 reviews) milton keynes (5 miles),2010,Saloon,71000,3.0L,,Manual,Petrol,2.0,BMW,MK3 6JS
+531,Ford Mondeo,https://www.autotrader.co.uk/car-details/202303315817208,"£3,000",4.0 (47 reviews) milton keynes (1 mile),2010,Hatchback,76670,1.6L,108.0,Manual,Petrol,,Ford,MK3 6JS
+532,Ford S-Max,https://www.autotrader.co.uk/car-details/202211241965226,"£2,499",3.8 (34 reviews) leighton buzzard (9 miles),2010,MPV,111850,2.0L,,Manual,Diesel,,Ford,MK3 6JS
+533,Mazda2,https://www.autotrader.co.uk/car-details/202303155279081,"£3,250",4.1 (44 reviews) milton keynes (1 mile),2010,Hatchback,96150,1.3L,,Manual,Petrol,2.0,Mazda2,MK3 6JS
+534,Toyota Aygo,https://www.autotrader.co.uk/car-details/202303285699580,"£2,995",4.7 (51 reviews) milton keynes (3 miles),2010,Hatchback,87150,1.0L,,Manual,Petrol,3.0,Toyota,MK3 6JS
+535,Peugeot 3008,https://www.autotrader.co.uk/car-details/202303095063073,"£2,995",4.7 (51 reviews) milton keynes (3 miles),2010,SUV,91300,1.6L,,Manual,Petrol,4.0,Peugeot,MK3 6JS
+536,Land Rover Freelander 2,https://www.autotrader.co.uk/car-details/202212042256426,"£5,000",milton keynes (4 miles),2010,SUV,90000,2.2L,,Automatic,Diesel,2.0,Land,MK3 6JS
+537,Fiat Grande Punto,https://www.autotrader.co.uk/car-details/202305046989558,"£2,490",4.6 (298 reviews) milton keynes (6 miles),2010,Hatchback,78000,1.4L,,Manual,Petrol,,Fiat,MK3 6JS
+538,Nissan Micra,https://www.autotrader.co.uk/car-details/202304206480726,"£2,375",5.0 (21 reviews) buckingham (8 miles),2010,Hatchback,73000,1.2L,79.0,Manual,Petrol,,Nissan,MK3 6JS
+539,SEAT Ibiza,https://www.autotrader.co.uk/car-details/202304136257712,"£4,899",milton keynes (10 miles),2010,Hatchback,48000,1.4L,,Manual,Petrol,,SEAT,MK3 6JS
+540,Toyota IQ,https://www.autotrader.co.uk/car-details/202302134221199,"£4,490",4.8 (116 reviews) bedford (7 miles),2010,Hatchback,31000,1.0L,,Manual,Petrol,,Toyota,MK3 6JS
+541,MINI Hatch,https://www.autotrader.co.uk/car-details/202302204470556,"£3,500",4.0 (47 reviews) milton keynes (1 mile),2010,Hatchback,66762,1.4L,,Manual,Petrol,2.0,MINI,MK3 6JS
+542,Renault Laguna,https://www.autotrader.co.uk/car-details/202302114164979,"£2,690",4.9 (26 reviews) milton keynes (2 miles),2010,Hatchback,77900,1.5L,,Manual,Diesel,2.0,Renault,MK3 6JS
+543,Volkswagen CC,https://www.autotrader.co.uk/car-details/202304116176201,"£3,490",4.7 (118 reviews) milton keynes (4 miles),2010,Saloon,171402,2.0L,,Automatic,Diesel,3.0,Volkswagen,MK3 6JS
+544,Vauxhall Meriva,https://www.autotrader.co.uk/car-details/202305026912234,"£1,709",3.7 (61 reviews) milton keynes (7 miles),2010,MPV,77212,1.4L,89.0,Manual,Petrol,4.0,Vauxhall,MK3 6JS
+545,BMW 3 Series,https://www.autotrader.co.uk/car-details/202304136246535,"£5,999",milton keynes (10 miles),2010,Saloon,109000,2.0L,,Automatic,Diesel,,BMW,MK3 6JS
+546,Vauxhall Meriva,https://www.autotrader.co.uk/car-details/202304256648737,"£5,490",4.8 (116 reviews) bedford (7 miles),2010,MPV,32000,1.7L,,Automatic,Diesel,,Vauxhall,MK3 6JS
+547,SKODA Fabia,https://www.autotrader.co.uk/car-details/202304025889358,"£2,499",4.9 (10 reviews) milton keynes (5 miles),2010,Hatchback,105219,1.9L,105.0,Manual,Diesel,2.0,SKODA,MK3 6JS
+548,KIA RIO,https://www.autotrader.co.uk/car-details/202305036941028,"£1,990",5.0 (21 reviews) buckingham (8 miles),2010,Hatchback,98000,1.4L,95.0,Manual,Petrol,4.0,KIA,MK3 6JS
+549,Renault Grand Modus,https://www.autotrader.co.uk/car-details/202304276726528,"£2,999",4.9 (10 reviews) milton keynes (5 miles),2010,MPV,68790,1.6L,,Automatic,Petrol,5.0,Renault,MK3 6JS
+550,Volkswagen Beetle,https://www.autotrader.co.uk/car-details/202304266703967,"£4,490",4.6 (298 reviews) milton keynes (6 miles),2010,Hatchback,59000,1.6L,,Manual,Petrol,,Volkswagen,MK3 6JS
+551,BMW 3 Series,https://www.autotrader.co.uk/car-details/202303215467224,"£5,199",4.7 (34 reviews) milton keynes (4 miles),2010,Saloon,108000,2.0L,,Manual,Diesel,,BMW,MK3 6JS
+552,SEAT Leon,https://www.autotrader.co.uk/car-details/202304015866545,"£2,899",milton keynes (10 miles),2010,Hatchback,94000,1.9L,,Manual,Diesel,,SEAT,MK3 6JS
+553,Vauxhall Zafira,https://www.autotrader.co.uk/car-details/202303255611986,"£4,390",4.8 (116 reviews) bedford (7 miles),2010,MPV,68000,1.9L,,Automatic,Diesel,,Vauxhall,MK3 6JS
+554,Audi TT,https://www.autotrader.co.uk/car-details/202301243564749,"£7,000",4.7 (34 reviews) milton keynes (4 miles),2010,Coupe,116000,2.0L,,Automatic,Petrol,5.0,Audi,MK3 6JS
+555,Mazda3,https://www.autotrader.co.uk/car-details/202301143246295,"£4,500",4.0 (47 reviews) milton keynes (1 mile),2010,Hatchback,65344,1.6L,,Manual,Petrol,2.0,Mazda3,MK3 6JS
+556,BMW 3 Series,https://www.autotrader.co.uk/car-details/202301133214577,"£5,990",4.6 (298 reviews) milton keynes (6 miles),2010,Estate,117000,2.0L,,Automatic,Diesel,,BMW,MK3 6JS
+557,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202304266693852,"£2,290",4.7 (118 reviews) milton keynes (4 miles),2010,Hatchback,176091,2.0L,,Manual,Diesel,3.0,Vauxhall,MK3 6JS
+558,Renault Laguna,https://www.autotrader.co.uk/car-details/202304136257761,"£3,699",4.9 (92 reviews) milton keynes (3 miles),2010,Coupe,110130,2.0L,,Manual,Diesel,3.0,Renault,MK3 6JS
+559,SKODA Octavia,https://www.autotrader.co.uk/car-details/202304076077095,"£2,900",milton keynes (1 mile),2010,Hatchback,125000,2.0L,,Automatic,Diesel,,SKODA,MK3 6JS
+560,Chevrolet Lacetti,https://www.autotrader.co.uk/car-details/202301273660213,"£2,500",4.0 (47 reviews) milton keynes (1 mile),2010,Hatchback,32050,1.6L,108.0,Manual,Petrol,3.0,Chevrolet,MK3 6JS
+561,Audi TT,https://www.autotrader.co.uk/car-details/202304266681277,"£5,700",4.9 (10 reviews) milton keynes (5 miles),2010,Coupe,101590,2.0L,,Manual,Petrol,5.0,Audi,MK3 6JS
+562,Mercedes-Benz C Class,https://www.autotrader.co.uk/car-details/202305026895545,"£4,800",leighton buzzard (7 miles),2010,Estate,124800,2.1L,,Automatic,Diesel,3.0,Mercedes-Benz,MK3 6JS
+563,Volkswagen Beetle,https://www.autotrader.co.uk/car-details/202304196447805,"£3,799",4.3 (12 reviews) leighton buzzard (9 miles),2010,Convertible,77550,1.4L,74.0,Manual,Petrol,,Volkswagen,MK3 6JS
+564,BMW 3 Series,https://www.autotrader.co.uk/car-details/202304086093597,"£5,199",4.7 (34 reviews) milton keynes (4 miles),2010,Estate,116000,2.0L,,Automatic,Diesel,,BMW,MK3 6JS
+565,BMW X1,https://www.autotrader.co.uk/car-details/202304306837548,"£5,099",milton keynes (3 miles),2010,SUV,101295,2.0L,,Automatic,Diesel,2.0,BMW,MK3 6JS
+566,BMW X1,https://www.autotrader.co.uk/car-details/202211161732244,"£5,500",4.7 (51 reviews) milton keynes (3 miles),2010,SUV,126500,2.0L,,Automatic,Diesel,,BMW,MK3 6JS
+567,Hyundai i10,https://www.autotrader.co.uk/car-details/202303115144164,"£3,590",4.8 (116 reviews) bedford (7 miles),2010,Hatchback,56000,1.2L,,Manual,Petrol,,Hyundai,MK3 6JS
+568,KIA Sportage,https://www.autotrader.co.uk/car-details/202303215458435,"£6,500",4.0 (47 reviews) milton keynes (1 mile),2010,SUV,98148,2.0L,,Automatic,Diesel,,KIA,MK3 6JS
+569,SKODA Octavia,https://www.autotrader.co.uk/car-details/202211011266065,"£3,495",4.7 (51 reviews) milton keynes (3 miles),2010,Hatchback,120200,1.9L,,Manual,Diesel,3.0,SKODA,MK3 6JS
+570,Ford C-Max,https://www.autotrader.co.uk/car-details/202304296813096,"£3,000",4.1 (44 reviews) milton keynes (1 mile),2010,MPV,97500,2.0L,143.0,Automatic,Petrol,4.0,Ford,MK3 6JS
+571,Hyundai Santa Fe,https://www.autotrader.co.uk/car-details/202302144258259,"£5,490",4.6 (298 reviews) milton keynes (6 miles),2010,SUV,97000,2.2L,,Automatic,Diesel,,Hyundai,MK3 6JS
+572,KIA RIO,https://www.autotrader.co.uk/car-details/202301123202070,"£1,750",4.4 (13 reviews) leighton buzzard (9 miles),2010,Hatchback,106188,1.5L,108.0,Manual,Diesel,4.0,KIA,MK3 6JS
+573,Volkswagen Tiguan,https://www.autotrader.co.uk/car-details/202304296809565,"£3,809",3.7 (61 reviews) milton keynes (7 miles),2010,SUV,129271,2.0L,,Manual,Diesel,3.0,Volkswagen,MK3 6JS
+574,Audi A3,https://www.autotrader.co.uk/car-details/202305067088840,"£3,495",4.4 (13 reviews) leighton buzzard (9 miles),2010,Hatchback,103493,1.6L,,Manual,Petrol,4.0,Audi,MK3 6JS
+575,Vauxhall Corsa,https://www.autotrader.co.uk/car-details/202304276730319,"£2,495",milton keynes (5 miles),2010,Hatchback,101706,1.3L,74.0,Manual,Diesel,2.0,Vauxhall,MK3 6JS
+576,Ford Fiesta,https://www.autotrader.co.uk/car-details/202303295764601,"£2,500",4.9 (10 reviews) milton keynes (5 miles),2010,Hatchback,80544,,81.0,Manual,Petrol,5.0,Ford,MK3 6JS
+577,Mercedes-Benz M Class,https://www.autotrader.co.uk/car-details/202304246620570,"£8,199",milton keynes (10 miles),2010,SUV,83000,3.0L,,Automatic,Diesel,,Mercedes-Benz,MK3 6JS
+578,Land Rover Freelander 2,https://www.autotrader.co.uk/car-details/202304086099845,"£5,999",5.0 (2 reviews) leighton buzzard (9 miles),2010,SUV,110000,2.2L,,Automatic,Diesel,,Land,MK3 6JS
+579,SEAT Ibiza,https://www.autotrader.co.uk/car-details/202305057057503,"£3,495",milton keynes (4 miles),2010,Hatchback,123550,1.6L,,Automatic,Petrol,,SEAT,MK3 6JS
+580,Mazda2,https://www.autotrader.co.uk/car-details/202304156313979,"£4,190",4.7 (118 reviews) milton keynes (4 miles),2010,Hatchback,54578,1.3L,,Manual,Petrol,2.0,Mazda2,MK3 6JS
+581,Peugeot 207,https://www.autotrader.co.uk/car-details/202302184409311,"£5,399",milton keynes (10 miles),2010,Hatchback,29000,1.6L,,Automatic,Petrol,2.0,Peugeot,MK3 6JS
+582,Mazda 3,https://www.autotrader.co.uk/car-details/202304025879968,"£4,595",3.2 (5 reviews) newport pagnell (6 miles),2010,Hatchback,74000,1.6L,105.0,Manual,Petrol,,Mazda,MK3 6JS
+583,KIA Ceed,https://www.autotrader.co.uk/car-details/202304086106771,"£2,500",milton keynes (1 mile),2010,Estate,123000,1.6L,,Manual,Diesel,,KIA,MK3 6JS
+584,BMW X1,https://www.autotrader.co.uk/car-details/202304015856870,"£6,995",4.9 (26 reviews) milton keynes (2 miles),2010,SUV,90000,2.0L,,Automatic,Diesel,5.0,BMW,MK3 6JS
+585,SKODA Superb,https://www.autotrader.co.uk/car-details/202303054922477,"£5,250",3.8 (34 reviews) leighton buzzard (9 miles),2010,Estate,120300,2.0L,,Automatic,Diesel,2.0,SKODA,MK3 6JS
+586,Hyundai i20,https://www.autotrader.co.uk/car-details/202304296834507,"£4,500",4.1 (44 reviews) milton keynes (1 mile),2010,Hatchback,31900,1.4L,,Manual,Petrol,,Hyundai,MK3 6JS
+587,Volkswagen FOX,https://www.autotrader.co.uk/car-details/202304015870470,"£1,999",4.9 (92 reviews) milton keynes (3 miles),2010,Hatchback,104842,1.2L,,Manual,Petrol,,Volkswagen,MK3 6JS
+588,BMW Z4,https://www.autotrader.co.uk/car-details/202303034868578,"£7,049",3.7 (61 reviews) milton keynes (7 miles),2010,Convertible,143042,3.0L,,Automatic,Petrol,2.0,BMW,MK3 6JS
+589,Honda Jazz,https://www.autotrader.co.uk/car-details/202211011263269,"£3,495",4.7 (51 reviews) milton keynes (3 miles),2010,Hatchback,110450,1.4L,,Manual,Petrol,3.0,Honda,MK3 6JS
+590,BMW 3 Series,https://www.autotrader.co.uk/car-details/202303245571105,"£4,809",3.7 (61 reviews) milton keynes (7 miles),2010,Estate,103600,2.0L,,Automatic,Petrol,9.0,BMW,MK3 6JS
+591,Peugeot 3008,https://www.autotrader.co.uk/car-details/202301073036800,"£3,795",4.7 (51 reviews) milton keynes (3 miles),2010,SUV,118950,2.0L,,Automatic,Diesel,4.0,Peugeot,MK3 6JS
+592,Honda Civic,https://www.autotrader.co.uk/car-details/202305057055206,"£2,695",milton keynes (4 miles),2010,Hatchback,148500,2.2L,138.0,Manual,Diesel,,Honda,MK3 6JS
+593,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202302104152063,"£3,000",4.1 (44 reviews) milton keynes (1 mile),2010,Estate,86860,1.8L,138.0,Automatic,Petrol,4.0,Vauxhall,MK3 6JS
+594,Audi A1,https://www.autotrader.co.uk/car-details/202202242923418,"£4,700",4.1 (44 reviews) milton keynes (1 mile),2010,Hatchback,105800,1.4L,,Manual,Petrol,3.0,Audi,MK3 6JS
+595,Volkswagen Scirocco,https://www.autotrader.co.uk/car-details/202304216519990,"£5,500",4.7 (51 reviews) milton keynes (3 miles),2010,Hatchback,115200,2.0L,,Manual,Diesel,,Volkswagen,MK3 6JS
+596,Ford Fiesta,https://www.autotrader.co.uk/car-details/202302033912171,"£3,000",4.0 (47 reviews) milton keynes (1 mile),2010,Hatchback,89120,1.4L,94.0,Manual,Petrol,3.0,Ford,MK3 6JS
+597,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202304116178768,"£2,490",4.7 (118 reviews) milton keynes (4 miles),2010,Hatchback,104704,1.6L,113.0,Manual,Petrol,3.0,Vauxhall,MK3 6JS
+598,Ford Fiesta,https://www.autotrader.co.uk/car-details/202302244610134,"£5,499",milton keynes (10 miles),2010,Hatchback,78000,1.4L,94.0,Automatic,Petrol,,Ford,MK3 6JS
+599,BMW 5 Series,https://www.autotrader.co.uk/car-details/202304226551206,"£4,580",milton keynes (4 miles),2010,Saloon,141800,2.0L,,Manual,Diesel,4.0,BMW,MK3 6JS
+600,Volkswagen FOX,https://www.autotrader.co.uk/car-details/202304076066014,"£2,495",4.7 (51 reviews) milton keynes (3 miles),2010,Hatchback,116950,1.2L,,Manual,Petrol,,Volkswagen,MK3 6JS
+601,Audi A3,https://www.autotrader.co.uk/car-details/202304236592741,"£6,580",milton keynes (4 miles),2010,Hatchback,90000,1.6L,,Automatic,Diesel,4.0,Audi,MK3 6JS
+602,Mercedes-Benz S Class,https://www.autotrader.co.uk/car-details/202303265643985,"£8,950",milton keynes (2 miles),2010,Saloon,159372,3.0L,,Automatic,Diesel,,Mercedes-Benz,MK3 6JS
+603,Land Rover Discovery 4,https://www.autotrader.co.uk/car-details/202205095497637,"£7,750",3.8 (34 reviews) leighton buzzard (9 miles),2010,SUV,134000,3.0L,,Automatic,Diesel,5.0,Land,MK3 6JS
+604,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202303135183363,"£4,495",4.7 (18 reviews) newport pagnell (6 miles),2010,Hatchback,70000,1.6L,113.0,Manual,Petrol,,Vauxhall,MK3 6JS
+605,BMW 1 Series,https://www.autotrader.co.uk/car-details/202301283706261,"£5,500",milton keynes (5 miles),2010,Coupe,79000,2.0L,,Manual,Diesel,3.0,BMW,MK3 6JS
+606,BMW 3 Series,https://www.autotrader.co.uk/car-details/202303255618720,"£5,990",4.7 (118 reviews) milton keynes (4 miles),2010,Saloon,101244,2.0L,,Automatic,Petrol,3.0,BMW,MK3 6JS
+607,Vauxhall Astra,https://www.autotrader.co.uk/car-details/202304266692603,"£2,690",4.7 (118 reviews) milton keynes (4 miles),2010,Hatchback,108170,1.4L,89.0,Manual,Petrol,3.0,Vauxhall,MK3 6JS
+608,Ford Fiesta,https://www.autotrader.co.uk/car-details/202304216523214,"£6,000",4.0 (47 reviews) milton keynes (1 mile),2010,Hatchback,65323,1.4L,94.0,Automatic,Petrol,2.0,Ford,MK3 6JS
+609,Audi TT,https://www.autotrader.co.uk/car-details/202305036947881,"£6,250",milton keynes (7 miles),2010,Coupe,78500,2.0L,,Manual,Diesel,2.0,Audi,MK3 6JS
+610,Audi Q7,https://www.autotrader.co.uk/car-details/202305036956295,"£9,999",3.8 (34 reviews) leighton buzzard (9 miles),2010,SUV,119400,3.0L,,Automatic,Diesel,,Audi,MK3 6JS
+611,Peugeot 107,https://www.autotrader.co.uk/car-details/202304306839976,"£4,720",milton keynes (3 miles),2010,Hatchback,47685,1.0L,,Automatic,Petrol,3.0,Peugeot,MK3 6JS
+612,Volkswagen Tiguan,https://www.autotrader.co.uk/car-details/202304106146446,"£8,995",4.6 (27 reviews) leighton buzzard (9 miles),2010,SUV,44526,2.0L,,Automatic,Diesel,,Volkswagen,MK3 6JS
+613,Volvo C70,https://www.autotrader.co.uk/car-details/202304286797399,"£4,995",4.4 (13 reviews) leighton buzzard (9 miles),2010,Convertible,99993,2.0L,,Manual,Diesel,3.0,Volvo,MK3 6JS
+614,Peugeot 207 SW,https://www.autotrader.co.uk/car-details/202303255618046,"£5,000",4.1 (44 reviews) milton keynes (1 mile),2010,Estate,52450,1.6L,,Automatic,Petrol,,Peugeot,MK3 6JS
+615,Toyota Auris,https://www.autotrader.co.uk/car-details/202305016879706,"£6,995",milton keynes (3 miles),2010,Hatchback,87318,1.8L,,Automatic,Petrol Hybrid,,Toyota,MK3 6JS
+616,Land Rover Freelander 2,https://www.autotrader.co.uk/car-details/202302023868095,"£7,999",5.0 (2 reviews) leighton buzzard (9 miles),2010,SUV,36728,2.2L,,Automatic,Diesel,,Land,MK3 6JS
+617,Renault Clio,https://www.autotrader.co.uk/car-details/202304216520800,"£6,290",4.7 (118 reviews) milton keynes (4 miles),2010,Hatchback,33716,1.6L,,Automatic,Petrol,5.0,Renault,MK3 6JS
+618,Ford Fusion,https://www.autotrader.co.uk/car-details/202304146293989,"£2,999",3.8 (34 reviews) leighton buzzard (9 miles),2010,Hatchback,50050,1.6L,99.0,Automatic,Petrol,3.0,Ford,MK3 6JS
+619,Mercedes-Benz E Class,https://www.autotrader.co.uk/car-details/202304086108193,"£8,950",milton keynes (2 miles),2010,Estate,97000,3.0L,,Automatic,Diesel,,Mercedes-Benz,MK3 6JS
+620,Nissan Navara,https://www.autotrader.co.uk/car-details/202301293730666,"£7,500",4.8 (356 reviews) leighton buzzard (7 miles),2010,Pickup,140000,2.5L,188.0,Manual,Diesel,,Nissan,MK3 6JS
+621,Abarth 500C,https://www.autotrader.co.uk/car-details/202304096128410,"£10,000",milton keynes (7 miles),2010,Convertible,21000,1.4L,,Automatic,Petrol,,Abarth,MK3 6JS
+622,Nissan Navara,https://www.autotrader.co.uk/car-details/202211302151348,"£10,000",4.8 (356 reviews) leighton buzzard (7 miles),2010,Pickup,66000,2.5L,169.0,Manual,Diesel,,Nissan,MK3 6JS
+623,Land Rover Discovery 4,https://www.autotrader.co.uk/car-details/202211282087777,"£8,000",leighton buzzard (8 miles),2010,SUV,150000,3.0L,,Automatic,Diesel,4.0,Land,MK3 6JS
+624,Vauxhall Insignia,https://www.autotrader.co.uk/car-details/202305067096555,"£4,650",milton keynes (4 miles),2010,Estate,92300,2.0L,,Automatic,Diesel,,Vauxhall,MK3 6JS
+625,Chrysler Grand Voyager,https://www.autotrader.co.uk/car-details/202305016883049,"£6,500",leighton buzzard (6 miles),2010,MPV,129422,2.8L,,Automatic,Diesel,3.0,Chrysler,MK3 6JS
+626,SKODA Octavia,https://www.autotrader.co.uk/car-details/202303085031423,"£6,990",4.7 (118 reviews) milton keynes (4 miles),2010,Estate,60766,1.6L,,Automatic,Diesel,,SKODA,MK3 6JS
+627,SKODA Octavia,https://www.autotrader.co.uk/car-details/202304256673457,"£6,884",leighton buzzard (9 miles),2010,Estate,61000,1.6L,,Automatic,Diesel,2.0,SKODA,MK3 6JS
