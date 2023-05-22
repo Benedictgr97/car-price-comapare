@@ -254,7 +254,7 @@ class DF_modify:
 
 class Graph_breakdown:
     def graph_breakdown(df,group_col,max_col,no_rows):
-        group_score = cf.groupby(group_col)[max_col].max().sort_values(ascending= False)[0:no_rows]
+        group_score = df.groupby(group_col)[max_col].max().sort_values(ascending= False)[0:no_rows]
         plt.figure().set_figwidth(20)
         plt.xticks(rotation=90)
         plt.bar(x = group_score.index,height = group_score.values)
