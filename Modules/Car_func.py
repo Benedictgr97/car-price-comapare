@@ -193,13 +193,13 @@ class Web_scrape:
 
         return pd.DataFrame(results)
 
-    def retrieve_cars(make, model, postcode, radius, min_year, max_year, min_price, max_price,location_type):
+    def retrieve_cars(postcode, radius, min_year, max_year, min_price, max_price,location_type):
         """
         Retrieve car listings based on specified search parameters.
         """
         cars = get_cars(
-            make=make,
-            model=model,
+            #make=make,
+            #model=model,
             postcode=postcode,
             radius=radius,
             min_year=min_year,
