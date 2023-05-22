@@ -8,8 +8,6 @@ import matplotlib.pyplot as plt
 #define functions 
 class Web_scrape:
     def get_cars(
-      #make="", 
-      #model="", 
       postcode="SW1A 0AA", 
       radius=1500, 
       min_year=1995, 
@@ -197,7 +195,7 @@ class Web_scrape:
         """
         Retrieve car listings based on specified search parameters.
         """
-        cars = get_cars(
+        cars = self.get_cars(
             #make=make,
             #model=model,
             postcode=postcode,
