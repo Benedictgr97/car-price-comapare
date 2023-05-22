@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 #define functions 
 class Web_scrape:
     def get_cars(
-      make="BMW", 
-      model="5 SERIES", 
+      make="", 
+      model="", 
       postcode="SW1A 0AA", 
       radius=1500, 
       min_year=1995, 
