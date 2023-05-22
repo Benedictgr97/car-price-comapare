@@ -10,6 +10,8 @@ class Web_scrape:
 
     @staticmethod
     def get_cars(
+      make = "",
+      model = "",
       postcode="SW1A 0AA", 
       radius=1500, 
       min_year=1995, 
@@ -63,8 +65,8 @@ class Web_scrape:
             "price-from" : min_price,
             "price-to" : max_price,
             "radius": radius,
-            #"make": make,
-            #"model": model,
+            "make": make,
+            "model": model,
             "search-results-price-type": "total-price",
             "search-results-year": "select-year",
         }
