@@ -221,50 +221,50 @@ class Web_scrape:
         cars = postcode_add(cars,location_type)
         return cars
 
+    def postcode_add(df,postcode):
+        for i in df.columns:
+            concat_col = i + ' ' + postcode
+            df = df.rename({i: concat_col.replace(' ','_')}, axis=1)
 
-def col_select(df,column):
-    final_cols = []
-    for i in df.columns:
-        for j in column:
-            if j in i:
-                final_cols.append(i)
-    
-    return final_cols
+        return df
 
-def grouped_score(df,group,col_name):
+class DF_modify:
+    def col_select(df,column):
+        final_cols = []
+        for i in df.columns:
+            for j in column:
+                if j in i:
+                    final_cols.append(i)
 
-    df = df.reset_index()
+        return final_cols
 
-    df = df[df['price_sell']*df['price_buy']*df['mileage_sell']*df['mileage_buy']*df['engine_buy']*df['engine_sell'] > 0 ]
-    
-    car_match_gr = df.groupby(group).sum(numeric_only= True)
-    count_cm_gr = df.groupby(group).count()
+    def grouped_score(df,group,col_name):
 
-    price_dif_gr = car_match_gr['price_sell'] - car_match_gr['price_buy']
-    mileage_ratio_gr = car_match_gr['mileage_sell']/car_match_gr['mileage_buy']
-    engine_ratio_gr = car_match_gr['engine_buy'] /car_match_gr['engine_sell']
+        df = df.reset_index()
 
-    score_gr = price_dif_gr * mileage_ratio_gr * engine_ratio_gr * (1/count_cm_gr['price_sell'])
+        df = df[df['price_sell']*df['price_buy']*df['mileage_sell']*df['mileage_buy']*df['engine_buy']*df['engine_sell'] > 0 ]
 
-    score_df = df.merge(score_gr.reset_index(),how = 'left',on  = group ).rename({0:col_name},axis = 1).drop(['index'],axis = 1)
+        car_match_gr = df.groupby(group).sum(numeric_only= True)
+        count_cm_gr = df.groupby(group).count()
 
-    score_df = score_df[~score_df.isin([0,'inf'])]
+        price_dif_gr = car_match_gr['price_sell'] - car_match_gr['price_buy']
+        mileage_ratio_gr = car_match_gr['mileage_sell']/car_match_gr['mileage_buy']
+        engine_ratio_gr = car_match_gr['engine_buy'] /car_match_gr['engine_sell']
 
-    return score_df
+        score_gr = price_dif_gr * mileage_ratio_gr * engine_ratio_gr * (1/count_cm_gr['price_sell'])
 
-def postcode_add(df,postcode):
-    for i in df.columns:
-        concat_col = i + ' ' + postcode
-        df = df.rename({i: concat_col.replace(' ','_')}, axis=1)
+        score_df = df.merge(score_gr.reset_index(),how = 'left',on  = group ).rename({0:col_name},axis = 1).drop(['index'],axis = 1)
 
-    return df
+        score_df = score_df[~score_df.isin([0,'inf'])]
 
+        return score_df
 
-def graph_breakdown(df,group_col,max_col,no_rows):
-    group_score = cf.groupby(group_col)[max_col].max().sort_values(ascending= False)[0:no_rows]
-    plt.figure().set_figwidth(20)
-    plt.xticks(rotation=90)
-    plt.bar(x = group_score.index,height = group_score.values)
+class Graph_breakdown:
+    def graph_breakdown(df,group_col,max_col,no_rows):
+        group_score = cf.groupby(group_col)[max_col].max().sort_values(ascending= False)[0:no_rows]
+        plt.figure().set_figwidth(20)
+        plt.xticks(rotation=90)
+        plt.bar(x = group_score.index,height = group_score.values)
 
 
 
