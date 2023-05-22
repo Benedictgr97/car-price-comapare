@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 #define functions 
 class Web_scrape:
     def get_cars(
+      self,
       postcode="SW1A 0AA", 
       radius=1500, 
       min_year=1995, 
@@ -191,13 +192,11 @@ class Web_scrape:
 
         return pd.DataFrame(results)
 
-    def retrieve_cars(postcode, radius, min_year, max_year, min_price, max_price,location_type):
+    def retrieve_cars(self,postcode, radius, min_year, max_year, min_price, max_price,location_type):
         """
         Retrieve car listings based on specified search parameters.
         """
         cars = self.get_cars(
-            #make=make,
-            #model=model,
             postcode=postcode,
             radius=radius,
             min_year=min_year,
