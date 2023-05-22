@@ -12,7 +12,6 @@ from re import sub
 import matplotlib.pyplot as plt
 
 #define functions 
-
 class Web_scrape:
     def get_cars(
       make="BMW", 
