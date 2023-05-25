@@ -6,9 +6,7 @@ from re import sub
 import matplotlib.pyplot as plt
 
 #define functions 
-class Web_scrape:
 
-    @staticmethod
     def get_cars(
       make = "",
       model = "",
@@ -195,12 +193,12 @@ class Web_scrape:
 
         return pd.DataFrame(results)
 
-    @staticmethod
+    
     def retrieve_cars(postcode, radius, min_year, max_year, min_price, max_price,location_type):
         """
         Retrieve car listings based on specified search parameters.
         """
-        cars = Web_scrape.get_cars(
+        cars = .get_cars(
             postcode=postcode,
             radius=radius,
             min_year=min_year,
