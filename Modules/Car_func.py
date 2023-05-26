@@ -222,6 +222,7 @@ def retrieve_cars(postcode, radius, min_year, max_year, min_price, max_price,loc
 
 
 def postcode_add(df,postcode):
+    #Loop over the column names and add the postcode to each 
     for i in df.columns:
         concat_col = i + ' ' + postcode
         df = df.rename({i: concat_col.replace(' ','_')}, axis=1)
@@ -243,6 +244,7 @@ def grouped_score(df,group,col_name):
 
     df = df.reset_index()
 
+    #make sure there are no 0's so we don't see any infinities 
     df = df[df['price_sell']*df['price_buy']*df['mileage_sell']*df['mileage_buy']*df['engine_buy']*df['engine_sell'] > 0 ]
 
     car_match_gr = df.groupby(group).sum(numeric_only= True)
@@ -258,6 +260,7 @@ def grouped_score(df,group,col_name):
 
     score_df = score_df[~score_df.isin([0,'inf'])]
 
+    #Return the final grouped by score adding it back to the original data frame 
     return score_df
 
 ##### Graph_breakdown:
