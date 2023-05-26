@@ -93,7 +93,6 @@ def get_cars(
 
             try:
                 if r.status_code != 200:   # If not successful (e.g. due to bot protection)
-                    print(r.status_code)
                     attempt = attempt + 1  # Log as an attempt
                     if attempt <= max_attempts_per_page:
                         if verbose:
@@ -205,12 +204,14 @@ def retrieve_cars(postcode, radius, min_year, max_year, min_price, max_price,loc
         min_price=min_price,
         max_price=max_price
     )
-    # Clean up year and brand columns
-    cars['year'] = cars['year'].dropna().apply(lambda x: int(str(x).split('(')[0]))
-    cars['brand'] = cars['name'].apply(lambda x: x.split(' ')[0])
-    cars['postcode'] = postcode
-    cars = postcode_add(cars,location_type)
+    
     return cars
+
+# Clean up year and brand columns
+    #cars['year'] = cars['year'].dropna().apply(lambda x: int(str(x).split('(')[0]))
+    #cars['brand'] = cars['name'].apply(lambda x: x.split(' ')[0])
+    #cars['postcode'] = postcode
+    #cars = postcode_add(cars,location_type)
 
 def postcode_add(df,postcode):
     for i in df.columns:
