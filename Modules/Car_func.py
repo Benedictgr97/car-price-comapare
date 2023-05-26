@@ -267,7 +267,7 @@ def graph_breakdown(df,group_col,max_col,no_rows,save_path):
     plt.figure().set_figwidth(20)
     plt.xticks(rotation=90)
     plt.bar(x = group_score.index,height = group_score.values)
-    plt.save_fig(save_path)
+    plt.savefig(save_path)
 
 
 
