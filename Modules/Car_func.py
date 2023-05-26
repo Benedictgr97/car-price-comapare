@@ -81,6 +81,7 @@ def get_cars(
     
     try:
         while year <= max_year:
+            print(year)
             params["year-from"] = year
             params["year-to"] = year
             params["page"] = page
@@ -204,14 +205,16 @@ def retrieve_cars(postcode, radius, min_year, max_year, min_price, max_price,loc
         min_price=min_price,
         max_price=max_price
     )
+
+    # Clean up year and brand columns
+    cars['year'] = cars['year'].dropna().apply(lambda x: int(str(x).split('(')[0]))
+    cars['brand'] = cars['name'].apply(lambda x: x.split(' ')[0])
+    cars['postcode'] = postcode
+    cars = postcode_add(cars,location_type)
     
     return cars
 
-# Clean up year and brand columns
-    #cars['year'] = cars['year'].dropna().apply(lambda x: int(str(x).split('(')[0]))
-    #cars['brand'] = cars['name'].apply(lambda x: x.split(' ')[0])
-    #cars['postcode'] = postcode
-    #cars = postcode_add(cars,location_type)
+
 
 def postcode_add(df,postcode):
     for i in df.columns:
