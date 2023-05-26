@@ -81,7 +81,6 @@ def get_cars(
     
     try:
         while year <= max_year:
-            print(year)
             params["year-from"] = year
             params["year-to"] = year
             params["page"] = page
@@ -94,6 +93,7 @@ def get_cars(
 
             try:
                 if r.status_code != 200:   # If not successful (e.g. due to bot protection)
+                    print(r.status_code)
                     attempt = attempt + 1  # Log as an attempt
                     if attempt <= max_attempts_per_page:
                         if verbose:
