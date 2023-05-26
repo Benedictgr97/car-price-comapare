@@ -19,8 +19,14 @@ def get_cars(
     min_price= 0,
     max_price = 99999):
 
+
+
     # To bypass Cloudflare protection
     scraper = cloudscraper.create_scraper()
+
+    headers ={
+        "User-Agent":"Mozilla/5.0 (X11; CrOS x86_64 15359.58.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.134 Safari/537.36"
+    }
 
     # Basic variables
     results = []
@@ -205,7 +211,7 @@ def retrieve_cars(postcode, radius, min_year, max_year, min_price, max_price,loc
         min_price=min_price,
         max_price=max_price
     )
-
+    print(cars)
     # Clean up year and brand columns
     cars['year'] = cars['year'].dropna().apply(lambda x: int(str(x).split('(')[0]))
     cars['brand'] = cars['name'].apply(lambda x: x.split(' ')[0])
