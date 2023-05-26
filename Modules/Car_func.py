@@ -211,7 +211,6 @@ def retrieve_cars(postcode, radius, min_year, max_year, min_price, max_price,loc
         min_price=min_price,
         max_price=max_price
     )
-    print(cars)
     # Clean up year and brand columns
     cars['year'] = cars['year'].dropna().apply(lambda x: int(str(x).split('(')[0]))
     cars['brand'] = cars['name'].apply(lambda x: x.split(' ')[0])
