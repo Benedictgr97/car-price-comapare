@@ -78,7 +78,7 @@ def get_cars(
     year = min_year
     page = 1
     attempt = 1
-    print(1)
+    
     try:
         while year <= max_year:
             params["year-from"] = year
