@@ -262,11 +262,14 @@ def grouped_score(df,group,col_name):
     return score_df
 
 ##### Graph_breakdown:
-def graph_breakdown(df,group_col,max_col,no_rows):
+def graph_breakdown(df,group_col,max_col,no_rows,save_path):
     group_score = df.groupby(group_col)[max_col].max().sort_values(ascending= False)[0:no_rows]
     plt.figure().set_figwidth(20)
     plt.xticks(rotation=90)
     plt.bar(x = group_score.index,height = group_score.values)
+    plt.save_fig(save_path)
+
+
 
 
 
