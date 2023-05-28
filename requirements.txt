@@ -1,0 +1,14 @@
+requests
+json
+csv
+bs4
+traceback
+cloudscraper
+pandas
+numpy
+seaborn
+decimal
+re
+matplotlib
+datetime
+
