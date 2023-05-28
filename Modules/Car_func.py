@@ -13,7 +13,7 @@ def get_cars(
     radius=1500, 
     min_year=1995, 
     max_year=1995, 
-    include_writeoff="include", 
+    include_writeoff="exclude", 
     max_attempts_per_page=5, 
     verbose=False,
     min_price= 0,
