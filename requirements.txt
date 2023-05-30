@@ -1,14 +1,9 @@
 requests
-json
-csv
-bs4
-traceback
+beautifulsoup4
 cloudscraper
 pandas
 numpy
 seaborn
 decimal
-re
 matplotlib
-datetime
 
