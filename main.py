@@ -4,22 +4,6 @@
 # For the radius in miles make sure you check the autotrader website for the allowed number of miles 
 #https://www.autotrader.co.uk/
 
-postcode_buy="NE1 5XE" 
-radius_buy=10
-
-postcode_sell="UB7 0AW" 
-radius_sell=25
-
-#Remeber to check the maximum and minimum years allowed on the website 
-min_year=2006
-max_year=2020
-min_price=0
-max_price=2000
-
-#State how many brands/ models you want to show in the final graphs 
-no_brands = 50
-no_models = 50
-
 #Run this cell to get the output
 import requests
 import json
@@ -37,7 +21,22 @@ import matplotlib.pyplot as plt
 from datetime import date
 import os
 import shutil
-%matplotlib inline
+
+postcode_buy="NE1 5XE" 
+radius_buy=10
+
+postcode_sell="UB7 0AW" 
+radius_sell=25
+
+#Remeber to check the maximum and minimum years allowed on the website 
+min_year=2006
+max_year=2020
+min_price=0
+max_price=2000
+
+#State how many brands/ models you want to show in the final graphs 
+no_brands = 50
+no_models = 50
 
 #Run retrieve cars to get the cars from the buy and sell locations 
 location_buy = cf.retrieve_cars(
