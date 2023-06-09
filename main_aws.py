@@ -23,21 +23,17 @@ import os
 import shutil
 import argparse
 
-postcode_buy="NE1 5XE" 
-radius_buy=10
-
-postcode_sell="UB7 0AW" 
-radius_sell=25
-
-#Remeber to check the maximum and minimum years allowed on the website 
-min_year=2006
-max_year=2020
-min_price=0
-max_price=2000
-
-#State how many brands/ models you want to show in the final graphs 
-no_brands = 50
-no_models = 50
+# Access environment variables
+postcode_buy = os.environ.get('POSTCODE_BUY')
+radius_buy = int(os.environ.get('RADIUS_BUY'))
+postcode_sell = os.environ.get('POSTCODE_SELL')
+radius_sell = int(os.environ.get('RADIUS_SELL'))
+min_year = int(os.environ.get('MIN_YEAR'))
+max_year = int(os.environ.get('MAX_YEAR'))
+min_price = int(os.environ.get('MIN_PRICE'))
+max_price = int(os.environ.get('MAX_PRICE'))
+no_brands = int(os.environ.get('NO_BRANDS'))
+no_models = int(os.environ.get('NO_MODELS'))
 
 #Run retrieve cars to get the cars from the buy and sell locations 
 location_buy = cf.retrieve_cars(
