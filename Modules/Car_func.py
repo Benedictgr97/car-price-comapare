@@ -5,6 +5,12 @@ import pandas as pd
 from re import sub
 import matplotlib.pyplot as plt
 
+#https://www.autotrader.co.uk/results-car-search?sort=relevance&postcode=MK36JS&price-from=500&price-to=2000&radius=10&make=&model=&search-results-price-type=total-price&search-results-year=select-year&exclude-writeoff-categories=on&year-from=2008&year-to=2008&page=1
+#https://www.autotrader.co.uk/car-search?advertising-location=at_cars&exclude-delivery-option=on&postcode=mk36js&price-from=500&price-to=5500&radius=10&sort=relevance&year-from=2008&year-to=2015
+
+#&postcode=MK36JS&price-from=500&price-to=2000&radius=10&make=&model=&search-results-price-type=total-price&search-results-year=select-year&exclude-writeoff-categories=on&year-from=2008&year-to=2008&page=1
+#postcode=mk36js&price-from=500&price-to=5500&radius=10&sort=relevance&year-from=2008&year-to=2015
+
 #define functions 
 def get_cars(
     make = "",
@@ -28,7 +34,7 @@ def get_cars(
     results = []
     n_this_year_results = 0
 
-    url = "https://www.autotrader.co.uk/results-car-search"
+    url = "https://www.autotrader.co.uk/car-search?advertising-location=at_cars&exclude-delivery-option=on"
 
     keywords = {}
     keywords["mileage"] = ["miles"]
@@ -80,12 +86,15 @@ def get_cars(
     year = min_year
     page = 1
     attempt = 1
+
+    print(1)
     
     try:
         while year <= max_year:
             params["year-from"] = year
             params["year-to"] = year
             params["page"] = page
+            
 
             r = scraper.get(url, params=params)
             if verbose:
@@ -96,10 +105,13 @@ def get_cars(
             try:
                 if r.status_code != 200:   # If not successful (e.g. due to bot protection)
                     print(r.status_code)
+
                     attempt = attempt + 1  # Log as an attempt
+
                     if attempt <= max_attempts_per_page:
                         if verbose:
                             print("Exception. Starting attempt #", attempt, "and keeping at page #", page)
+                    
                     else:
                         page = page + 1
                         attempt = 1
@@ -110,9 +122,12 @@ def get_cars(
                     print(r.url)
 
                 else:
+                    #############print(r.text)
 
                     j = r.json()
                     s = BeautifulSoup(j["html"], features="html.parser")
+                    
+                    
 
                     articles = s.find_all("article", attrs={"data-standout-type":""})
 
@@ -194,6 +209,7 @@ def get_cars(
 
     except KeyboardInterrupt:
         pass
+
 
     return pd.DataFrame(results)
 
