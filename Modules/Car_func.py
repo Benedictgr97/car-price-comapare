@@ -24,10 +24,6 @@ def get_cars(
     # To bypass Cloudflare protection
     scraper = cloudscraper.create_scraper()
 
-    headers ={
-        "User-Agent":"Mozilla/5.0 (X11; CrOS x86_64 15359.58.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.134 Safari/537.36"
-    }
-
     # Basic variables
     results = []
     n_this_year_results = 0
@@ -109,6 +105,9 @@ def get_cars(
                         attempt = 1
                         if verbose:
                             print("Exception. All attempts exhausted for this page. Skipping to next page #", page)
+
+                if r.status_code == 404:
+                    print(r.url)
 
                 else:
 
