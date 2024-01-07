@@ -122,13 +122,10 @@ def get_cars(
                     print(r.url)
 
                 else:
-                    #############print(r.text)
-
-                    j = r.json()
-                    s = BeautifulSoup(j["html"], features="html.parser")
+                    j = r.content
                     
+                    s = BeautifulSoup(j, features="html.parser")
                     
-
                     articles = s.find_all("article", attrs={"data-standout-type":""})
 
                     # If no results or reached end of results...
@@ -147,6 +144,8 @@ def get_cars(
                         n_this_year_results = 0
                     else:
                         for article in articles:
+                            print(article)
+                            print(2)
                             car = {}
                             car["name"] = article.find("h3", {"class": "product-card-details__title"}).text.strip()             
                             car["link"] = "https://www.autotrader.co.uk" + \
